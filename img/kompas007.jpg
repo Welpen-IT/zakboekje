@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl-NL" lang="nl-NL">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- 
+	- --> <meta http-equiv="X-UA-Compatible" content="ie=emulateie7" />
+	  <!--
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://www.online.nl/" />
+<link rel="shortcut icon" href="http://www.online.nl/fileadmin/templates/images/favicon.ico" />
+<link rel="icon" href="http://www.online.nl/fileadmin/templates/images/favicon.ico" />
+
+<meta name="generator" content="TYPO3 4.3 CMS" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_42a7d7391a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/rgmedialinks/res/mediabox.css" media="screen" />
+
+
+
+<script src="typo3conf/ext/powermail/js/checkbox/checkbox.js" type="text/javascript"></script>
+<script src="typo3conf/ext/rgmedialinks/res/mootools.js" type="text/javascript"></script>
+<script src="typo3conf/ext/rgmedialinks/res/mediabox.js" type="text/javascript"></script>
+<script src="typo3temp/javascript_b9328db19d.js" type="text/javascript"></script>
+
+
+<link rel="stylesheet" href="http://www.online.nl/css/v2/layout.css" type="text/css" />
+	<script src="http://tools.online.nl/customercheck/" type="text/javascript"></script>
+	<script src="http://www.online.nl/js/content_type_selector.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="http://www.online.nl/css/dynamic-overlay.css" type="text/css" id="dynamic-css" />
+	<meta http-equiv="refresh" content="30;url=http://www.online.nl/" />
+        <link rel="stylesheet" type="text/css" href="fileadmin/templates/res/moodalbox.css" />
+  <script src="typo3conf/ext/rgmoodalbox/res/js/mootools.js" type="text/javascript"></script>
+  <script src="fileadmin/templates/js/moodalbox.js" type="text/javascript"></script>
+  
+    
+  <script src="fileadmin/templates/js/mbox100.js" type="text/javascript"></script>
+
+
+	<title>Pagina niet gevonden - Online</title>
+	<meta name="keywords" content="mobiel internet, onbeperkt, internetstick, t-mobile, online, aanbieding, draadloos, wifi, worldmax, aerea" />
+	<meta name="description" content="Altijd en overal internet met dit speciale aanbod van T-Mobile en Online. Razendsnel internet thuis en onbeperkt mobiel internet." />
+	<meta name="date" content="2010-08-09" />
+	<script src="validation/404/" type="text/javascript"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {	
+		var pageTracker = _gat._getTracker("UA-6535298-1");
+		// pageTracker._initData();
+		pageTracker._setDomainName(".online.nl");
+		pageTracker._setAllowLinker(true);
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+		}
+		catch(err) {}		
+	</script>	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {	
+		var pageTracker = _gat._getTracker("UA-6535298-1");
+		// pageTracker._initData();
+		pageTracker._setDomainName(".online.nl");
+		pageTracker._setAllowLinker(true);
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
+		}
+		catch(err) {}		
+	</script>
+<script src="http://www.online.nl/js/omniture_referring_domain_to_campaign.min.js" language="javascript" type="text/javascript"></script>
+
+<script src="http://www.online.nl/js/s_code.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName='404:';
+s.pageName=s.pageName.toLowerCase();
+s.server='';
+s.channel='/404/';
+s.pageType='';
+s.prop1='';
+s.prop2='';
+s.prop3='';
+s.prop4='';
+s.prop5='';
+s.prop6='';
+s.prop7='';
+s.prop8='';
+s.prop31='overig';
+s.campaign='';
+s.state='';
+s.zip='';
+s.events='';
+s.products='';
+s.purchaseID='';
+s.eVar1='';
+s.eVar2='';
+s.eVar3='';
+s.eVar4='';
+s.eVar5='';
+s.eVar16=s.prop8;
+var campaigns = new SiteCatalystCampaigns();
+campaigns.add("SEO: Google", ["google", "www.google"]);
+campaigns.add("SEO: Yahoo", ["yahoo", "www.yahoo"]);
+campaigns.exclude(["online", "www.online", "acc-www.online"]);
+campaigns.apply(s);
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript">// <!--
+// if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 
+//--></script>
+
+	<div align="center">
+		<div id="sitewrap"><!--###sitewrap### begin -->
+			
+			<div id="headerwrap"><!--###headerwrap### begin -->
+				<ul id="topnav"><li><a href="/" class="logo" title="Online"></a></li><li><a href="/" onfocus="blurLink(this)" class="home" title="Home"><span class="invis">Home</span></a></li><li><a href="producten/" onfocus="blurLink(this)" class="producten" title="Producten"><span class="invis">Producten</span></a></li><li><a href="acties/" onfocus="blurLink(this)" class="acties" title="Acties"><span class="invis">Acties</span></a></li><li><a href="entertainment/" onfocus="blurLink(this)" class="webwijzer" title="Webwijzer"><span class="invis">Entertainment</span></a></li><li><a href="klantenservice/" onfocus="blurLink(this)" class="klantenservice" title="Klantenservice" onclick="javascript:pageTracker._trackPageview('/virtual/home/klantenservicebutton');"><span class="invis">Klantenservice</span></a></li><li><a href="mijn-online/" onfocus="blurLink(this)" class="mijnonline" title="Mijn Online"><span class="invis">Mijn Online</span></a></li><li><a href="webmail/" onfocus="blurLink(this)" class="webmail" title="Webmail" onclick="javascript:pageTracker._trackPageview('/virtual/home/webmailbutton');"><span class="invis">Webmail</span></a></li></ul>
+			<!--###headerwrap### end --></div>
+			
+			<div id="contentwrap"><!--###contentwrap### begin -->
+				<div id="htmlContent"><div id="details">
+<div id="introduction" style="height: 92px;">
+<img src="images/v2/puzzled-man.png" alt="" class="productbox" />
+<h1>404 - pagina niet gevonden</h1>
+<p>De pagina waar u naar zocht werd helaas niet gevonden. De informatie is misschien verwijderd of het internetadres is gewijzigd. Onze excuses voor het ongemak.</p>
+</div>
+
+<div class="detailsblok huge">
+<h2>Contact</h2>
+<p>Niet gevonden wat u zocht? Onze telefonische klantenservice is elke dag <br />bereikbaar van 08.00 tot 22.00 uur. Of gebruik de <a href="http://www.online.nl/klantenservice/" class="leesmeer">Online Klantenservice &raquo;</a></p>
+<table class="error404">
+<tr>
+<td><strong>Klantenservice</strong></td>
+<td><strong>0900 9515</strong> (&euro;&nbsp;0,15/min)</td>
+</tr>
+<tr>
+<td><strong>HDTV CanalDigitaal</strong></td>
+<td><strong>0900 9323</strong> (&euro;&nbsp;0,15/min)</td>
+</tr>
+<tr>
+<td><strong>Verkoop</strong></td>
+<td><strong>0900 0133</strong> (&euro;&nbsp;0,10/min)</td>
+</tr>
+</table>
+
+<div class="blokcloser"></div>
+</div>
+
+<div class="detailsblok huge">
+<h2>Navigatie</h2>
+<div class="error404-sitemap">
+<dl class="error404">
+	<dt>Homepage</dt>
+	<dd><a href="http://www.online.nl/">Naar homepage</a></dd>
+</dl>
+<dl class="error404">
+	<dt>Sitemap</dt>
+	<dd><a href="http://www.online.nl/over-ons/sitemap/">Bekijk sitemap</a></dd>
+</dl>
+<dl class="error404">
+	<dt>Klantenservice</dt>
+	<dd><a href="http://www.online.nl/klantenservice/">Online klantenservice</a></dd>
+	<dd><a href="http://www4.online.nl/netwerkmeldingen/index.html">Bekijk de actuele meldingen</a></dd>
+</dl>
+</div>
+<div class="error404-sitemap">
+<dl class="error404">
+	<dt>Productinformatie</dt>
+	<dd><a href="http://www.online.nl/producten/internet/">Internet</a></dd>
+	<dd><a href="http://www.online.nl/producten/internet-bellen/">Internet + Bellen</a></dd>
+	<dd><a href="http://www.online.nl/producten/internet-bellen-tv/">Internet + Bellen + HDTV</a></dd>
+</dl>
+	<a href="http://www.online.nl/producten/" class="leesmeer">Alle producten &raquo;</a>
+<dl class="error404">
+	<dt>Tarieven</dt>
+	<dd><a href="http://www.online.nl/tarieven/">Alle tarieven</a></dd>
+</dl>
+</div>
+<div class="error404-sitemap">
+<dl class="error404">
+	<dt>Webmail</dt>
+	<dd><a href="http://www.online.nl/webmail/">Naar webmail</a></dd>
+</dl>
+<dl class="error404">
+	<dt>Mijn Online</dt>
+	<dd><a href="http://wasp.online.nl/wsp/?command=ShowInvoiceList">Bekijk uw factuur</a></dd>
+	<dd><a href="http://wasp.online.nl/wsp/?command=SendPassword">Wachtwoord opvragen</a></dd>
+	<dd><a href="http://opslag.online.nl/Affiliate/signin.aspx">Naar Online Opslag</a></dd>
+</dl>
+<a href="http://www.online.nl/mijn-online/" class="leesmeer">Naar Mijn Online &raquo;</a>
+</div>
+
+<div class="blokcloser"></div>
+</div>
+
+</div>
+
+<div id="metabar" class="error404">
+    <div class="detailsblok small headerless" id="voordelen-online">
+      <h2>Zorgeloos Online</h2>
+      <ul class="checklist">
+        <li>Razendsnel en betrouwbaar</li>
+        <li>Zeer voordelige abonnementen</li>
+        <li>Gratis spam- en virusfilter</li>
+        <li>Onderdeel van T-Mobile</li>
+      </ul>
+      <p>Meer dan 300.000 mensen kiezen dagelijks voor <b>Online</b>!</p>
+      <div class="blokcloser"></div>
+    </div>
+</div></div>
+			<!--###contentwrap### end --></div>
+			<div style="clear: both;"></div>
+		<!--###sitewrap### end --></div>
+		
+		<div id="footerwrap"><!--###footerwrap### begin -->
+			<div id="footer"><ul id="footermenu_left"><li><a href="over-ons/" onfocus="blurLink(this)">Over ons</a></li><li><a href="over-ons/werken-bij-online/" onfocus="blurLink(this)">Vacatures</a></li><li><a href="over-ons/contact-klantenservice/" onfocus="blurLink(this)">Contact</a></li><li><a href="over-ons/sitemap/" onfocus="blurLink(this)">Sitemap</a></li></ul><ul id="footermenu_right"><li><a href="internet-veiligheid/" onfocus="blurLink(this)">Internet veiligheid</a></li><li><a href="voorwaarden/" onfocus="blurLink(this)">Voorwaarden</a></li><li><a href="over-ons/privacy-statement/" onfocus="blurLink(this)">Privacy</a></li><li><a href="over-ons/disclaimer/" onfocus="blurLink(this)">Disclaimer</a></li></ul></div>
+		<!--###footerwrap### end --></div>
+	</div>
+
+
+
+
+</body>
+</html>
+<!-- Parsetime: 0 ms-->
