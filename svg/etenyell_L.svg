@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="etenyell_L.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="etenyell_L.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -148,21 +148,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0621472"
-     inkscape:cx="186.02362"
-     inkscape:cy="262.20471"
+     inkscape:zoom="4.1241505"
+     inkscape:cx="123.05564"
+     inkscape:cy="337.40282"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="825"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -170,9 +171,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="5mm"
-       spacingy="5mm"
-       units="mm" />
+       spacingx="17.716535"
+       spacingy="17.716535"
+       units="mm"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid4555"
@@ -181,9 +184,11 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       spacingx="2.5mm"
-       spacingy="2.5mm"
-       dotted="true" />
+       spacingx="8.8582677"
+       spacingy="8.8582677"
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -193,7 +198,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -225,58 +230,68 @@
        id="path2912-9" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="141.73228"
        y="556.29913"
        id="text3803"><tspan
          sodipodi:role="line"
          id="tspan3805"
          x="141.73228"
-         y="556.29913">Pagina : Leeg Links</tspan></text>
+         y="556.29913"
+         style="font-size:14px;line-height:1.25">Pagina : Leeg Links</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="141.73228"
        y="574.01569"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
          x="141.73228"
-         y="574.01569">Datum : 23 sep 2010</tspan><tspan
+         y="574.01569"
+         style="font-size:14px;line-height:1.25">Datum : 23 sep 2010</tspan><tspan
          sodipodi:role="line"
          x="141.73228"
          y="591.51569"
-         id="tspan3811" /></text>
+         id="tspan3811"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2852"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion2854"><rect
            id="rect2856"
            width="217.78888"
            height="115.96551"
            x="152.02795"
            y="110.04486" /></flowRegion><flowPara
-         id="flowPara2858" /></flowRoot>    <text
+         id="flowPara2858"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="168.99852"
        y="143.27888"
        id="text2860"
        transform="translate(0,527.95271)"><tspan
          sodipodi:role="line"
-         id="tspan2862" /></text>
+         id="tspan2862"
+         x="168.99852"
+         y="143.27888"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2866"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion2868"><rect
            id="rect2870"
            width="134.35028"
            height="38.183765"
            x="154.14928"
            y="328.54086" /></flowRegion><flowPara
-         id="flowPara2872" /></flowRoot>    <path
+         id="flowPara2872"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 372.04724,538.58261 -10e-6,53.1496"
@@ -289,7 +304,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2936"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(0,527.95271)"><flowRegion
          id="flowRegion2938"><rect
            id="rect2940"
@@ -299,22 +314,36 @@
            y="90.18737"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans" /></flowRegion><flowPara
          id="flowPara2942"
-         style="font-weight:bold">Eten Yells</flowPara><flowPara
-         id="flowPara2970"></flowPara><flowPara
-         id="flowPara2972">Hap-hap-haperdehap-haperdehap-hap-hap</flowPara><flowPara
-         id="flowPara2948">hap-hap-hap </flowPara><flowPara
-         id="flowPara2950">Bik bik bikkerdebik-bikkerdebik-bik-bik</flowPara><flowPara
-         id="flowPara2952">bik-bik-bik</flowPara><flowPara
-         id="flowPara2954">Eet sma-ke-lijk!</flowPara><flowPara
-         id="flowPara2956" /><flowPara
-         id="flowPara2958">Wij hebben smakelijk gegeten, </flowPara><flowPara
-         id="flowPara2960">Wij lusten niet meer,</flowPara><flowPara
-         id="flowPara2962">Eerst waren wij hol,</flowPara><flowPara
-         id="flowPara2964">Maar nu zijn wij vol!</flowPara><flowPara
-         id="flowPara2966" /><flowPara
-         id="flowPara2968">Mi Ma Moetsie - Hap slik foetsie!</flowPara></flowRoot>    <text
+         style="font-weight:bold;font-size:11px;line-height:1.25">Eten Yells</flowPara><flowPara
+         id="flowPara2970"
+         style="font-size:11px;line-height:1.25"> </flowPara><flowPara
+         id="flowPara2972"
+         style="font-size:11px;line-height:1.25">Hap-hap-happerdehap-happerdehap-hap-hap</flowPara><flowPara
+         id="flowPara2948"
+         style="font-size:11px;line-height:1.25">hap-hap-hap </flowPara><flowPara
+         id="flowPara2950"
+         style="font-size:11px;line-height:1.25">Bik bik bikkerdebik-bikkerdebik-bik-bik</flowPara><flowPara
+         id="flowPara2952"
+         style="font-size:11px;line-height:1.25">bik-bik-bik</flowPara><flowPara
+         id="flowPara2954"
+         style="font-size:11px;line-height:1.25">Eet sma-ke-lijk!</flowPara><flowPara
+         id="flowPara2956"
+         style="font-size:11px;line-height:1.25"> </flowPara><flowPara
+         id="flowPara2958"
+         style="font-size:11px;line-height:1.25">Wij hebben smakelijk gegeten, </flowPara><flowPara
+         id="flowPara2960"
+         style="font-size:11px;line-height:1.25">Wij lusten niet meer,</flowPara><flowPara
+         id="flowPara2962"
+         style="font-size:11px;line-height:1.25">Eerst waren wij hol,</flowPara><flowPara
+         id="flowPara2964"
+         style="font-size:11px;line-height:1.25">Maar nu zijn wij vol!</flowPara><flowPara
+         id="flowPara2966"
+         style="font-size:11px;line-height:1.25"> </flowPara><flowPara
+         id="flowPara2968"
+         style="font-size:11px;line-height:1.25">Mi Ma Moetsie - Hap slik foetsie!</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
        x="113.6282"
        y="114.029"
        id="text2944"
@@ -322,7 +351,8 @@
          sodipodi:role="line"
          id="tspan2946"
          x="113.6282"
-         y="114.029" /></text>
+         y="114.029"
+         style="font-size:40px;line-height:1.25"> </tspan></text>
     <g
        id="g2978"
        transform="matrix(0.03404277,0,0,-0.03404277,91.936553,946.31927)"

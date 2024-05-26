@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="RimboeverhaalA_L.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="RimboeverhaalA_L.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -114,20 +114,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9713416"
-     inkscape:cx="117.50098"
-     inkscape:cy="-71.871812"
+     inkscape:zoom="3.8272047"
+     inkscape:cx="202.10573"
+     inkscape:cy="112.74547"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="950"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -135,9 +136,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="5mm"
-       spacingy="5mm"
-       units="mm" />
+       spacingx="17.716535"
+       spacingy="17.716535"
+       units="mm"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid3331"
@@ -145,10 +148,12 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="2.5mm"
-       spacingy="2.5mm"
+       spacingx="8.8582677"
+       spacingy="8.8582677"
        units="mm"
-       dotted="true" />
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -190,58 +195,68 @@
        id="path2912-9" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="141.73228"
        y="556.29913"
        id="text3803"><tspan
          sodipodi:role="line"
          id="tspan3805"
          x="141.73228"
-         y="556.29913">Pagina : Test page A</tspan></text>
+         y="556.29913"
+         style="font-size:14px;line-height:1.25">Pagina : Test page A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="141.73228"
        y="574.01569"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
          x="141.73228"
-         y="574.01569">Datum : 11 sep 2010</tspan><tspan
+         y="574.01569"
+         style="font-size:14px;line-height:1.25">Datum : 15 jun 2024</tspan><tspan
          sodipodi:role="line"
          x="141.73228"
          y="591.51569"
-         id="tspan3811" /></text>
+         id="tspan3811"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2852"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion2854"><rect
            id="rect2856"
            width="217.78888"
            height="115.96551"
            x="152.02795"
            y="110.04486" /></flowRegion><flowPara
-         id="flowPara2858" /></flowRoot>    <text
+         id="flowPara2858"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="168.99852"
        y="143.27888"
        id="text2860"
        transform="translate(0,527.95271)"><tspan
          sodipodi:role="line"
-         id="tspan2862" /></text>
+         id="tspan2862"
+         x="168.99852"
+         y="143.27888"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2866"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion2868"><rect
            id="rect2870"
            width="134.35028"
            height="38.183765"
            x="154.14928"
            y="328.54086" /></flowRegion><flowPara
-         id="flowPara2872" /></flowRoot>    <path
+         id="flowPara2872"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <path
        style="fill:#000000;stroke:none"
        id="path8"
        d="m 84.039652,591.73221 c 0,0.60844 4.867522,2.66778 6.271615,2.66778 0.795653,0 2.012534,0.37442 2.620974,0.79565 1.544502,1.02967 5.990797,5.61637 6.599237,6.83325 0.468031,0.84246 0.421228,0.88926 -1.216881,0.60844 -0.936062,-0.18721 -2.433761,-0.70204 -3.32302,-1.07647 -1.450896,-0.70204 -1.684911,-0.70204 -3.463429,0.0936 -1.778518,0.79565 -2.059336,0.79565 -5.990797,0.0468 -4.539901,-0.88926 -6.224812,-2.05933 -7.160874,-4.82072 -0.280819,-0.84245 -0.702047,-1.5445 -0.936062,-1.5445 -0.561637,0 -0.561637,0.23402 0.280818,2.19975 0.842456,2.01253 2.433762,3.65064 4.07187,4.30588 0.655244,0.23402 3.276217,0.79565 5.803585,1.21688 2.527367,0.46803 4.961128,1.02967 5.475962,1.35729 0.468031,0.28082 1.35729,1.4509 1.96573,2.62098 0.561638,1.17007 2.340155,3.22941 3.931461,4.5867 3.089009,2.71458 5.007929,5.24195 2.667779,3.55704 -0.65525,-0.51484 -1.21688,-1.02967 -1.21688,-1.21689 0,-0.18721 -1.31049,-1.31048 -2.901795,-2.52736 -1.638109,-1.21688 -3.135808,-2.48057 -3.32302,-2.85499 -0.187213,-0.32762 -0.795653,-0.60844 -1.263684,-0.60844 -0.514834,0 -0.936062,-0.18721 -0.936062,-0.46803 0,-0.74885 -2.012533,-2.34016 -3.042201,-2.34016 -0.514835,0 -1.450897,-0.32762 -2.012534,-0.74885 -0.60844,-0.42123 -1.21688,-0.60844 -1.404093,-0.42123 -0.468031,0.46804 1.263684,1.59131 3.042202,1.91893 2.293352,0.42123 3.229414,2.05934 3.042201,5.38236 -0.09361,2.15294 0.09361,2.76138 0.889259,3.51023 0.842456,0.74885 0.936062,1.21688 0.702047,3.69745 l -0.234016,2.80818 0.655243,-2.80818 c 0.608441,-2.62098 0.608441,-2.9018 -0.280818,-4.07187 -1.404093,-2.01254 -1.170078,-2.9954 0.374425,-1.54451 0.702046,0.65525 1.450896,1.17008 1.638108,1.17008 0.140409,0 0.795653,0.98287 1.404093,2.19975 0.936062,1.96573 1.076471,2.94859 1.076471,7.86292 0.0468,3.089 0.234016,5.99079 0.421228,6.45883 0.374425,0.79565 -3.510232,-1.54451 -5.429159,-3.27622 -0.74885,-0.65525 -0.842456,-0.65525 -1.263684,0.37442 -0.468031,1.31049 -0.421228,1.4041 -2.199746,-4.21228 -1.35729,-4.39949 -1.263683,-6.73964 0.280819,-9.31381 0.514834,-0.84246 0.702046,-1.4977 0.468031,-1.4977 -0.795653,0 -1.872124,2.10614 -2.386958,4.82072 -0.468031,2.29335 -0.421228,2.90179 0.421228,5.10154 0.561637,1.35729 1.310487,3.69744 1.731714,5.14834 0.74885,2.80818 1.35729,3.36982 1.872124,1.82532 0.280819,-0.84246 0.327622,-0.84246 2.059337,0 3.135808,1.4977 5.990797,5.75678 4.961129,7.44169 -0.14041,0.23402 -0.09361,0.46803 0.140409,0.46803 0.280818,0 0.561637,-0.28082 0.655243,-0.60844 0.234016,-0.56164 -0.187212,-5.05473 -0.842456,-8.75218 l -0.327621,-2.05934 1.591305,1.82533 c 2.527371,2.94859 2.948591,3.18261 3.323021,1.82532 0.28082,-1.17008 -0.18721,-7.76932 -0.84246,-10.90513 l -0.32762,-1.5913 1.02967,1.02967 c 0.60844,0.60844 0.98287,1.5913 0.98287,2.57417 0,1.12327 0.46803,2.15294 1.6381,3.55703 0.88926,1.07647 1.63811,2.24655 1.63811,2.57417 0,0.32763 0.14041,1.02967 0.28082,1.4977 0.23402,0.74885 0.18721,0.74885 -0.46803,-0.0936 -0.98287,-1.17008 -1.96573,-0.60844 -3.27622,1.91892 -1.40409,2.66778 -1.35729,8.19055 0.0936,10.4839 0.56164,0.88926 1.02967,2.19974 1.02967,2.90179 0,0.74885 0.18721,1.31049 0.46803,1.31049 1.21688,0 2.80818,-5.38236 2.80818,-9.59464 0,-1.87212 0.18722,-3.0422 0.42123,-2.80818 0.46803,0.56163 1.73172,6.41202 2.15294,10.20307 0.18722,1.63811 0.46804,2.57417 0.79566,2.38696 0.88926,-0.56164 -0.28082,-6.97366 -3.08901,-17.03633 -0.60844,-2.19974 -1.26368,-4.39949 -1.45089,-4.86752 -0.32763,-0.74885 -0.23402,-0.84246 0.51483,-0.51484 1.77852,0.74885 2.90179,0.79566 4.21228,0.14041 0.79565,-0.37442 1.96573,-0.56163 2.80819,-0.42122 1.82532,0.37442 4.25908,2.43376 4.68031,3.97826 0.37442,1.4977 1.12327,2.05934 1.12327,0.88926 0,-1.26369 -1.82532,-4.4463 -3.22941,-5.61637 -1.77852,-1.54451 -5.42916,-2.62098 -7.62891,-2.34016 -1.82532,0.23402 -2.01253,0.14041 -4.30588,-2.29335 -1.31049,-1.4509 -3.88466,-4.11867 -5.709983,-5.94399 -1.825321,-1.87213 -3.744248,-4.21228 -4.305885,-5.24195 -0.514834,-1.07647 -1.497699,-2.19975 -2.152942,-2.57417 -1.544503,-0.79565 -0.655244,-1.5445 1.076471,-0.84246 1.638108,0.65525 7.582099,2.24655 8.424559,2.24655 0.42123,0 0.0936,-0.60844 -0.88926,-1.63811 -1.5445,-1.5913 -1.5445,-1.5913 -1.21688,-5.00793 0.14041,-1.87212 0.42123,-4.11867 0.56164,-4.96113 0.18721,-0.79565 0.0936,-1.4977 -0.14041,-1.4977 -0.42123,0 -1.544505,5.24195 -1.544505,7.34809 0,1.31049 0,1.31049 -1.778518,-0.65524 -2.995398,-3.41663 -5.195144,-4.86753 -7.160874,-4.72712 -1.123274,0.0468 -2.10614,-0.18721 -2.667777,-0.70204 -0.842456,-0.74885 -3.837854,-1.63811 -3.837854,-1.12328 z m 22.699508,27.94145 c 0.70204,0.79566 1.21688,0.88926 2.99539,0.65525 1.4509,-0.14041 2.76139,0 4.02507,0.51483 1.59131,0.60844 1.68491,0.70205 0.46803,0.51483 -0.79565,-0.1404 -1.77852,0.0936 -2.29335,0.46804 -1.26368,0.93606 -2.76138,0.84245 -4.16548,-0.28082 -1.5445,-1.21688 -2.10614,-1.17008 -2.34015,0.0936 -0.0936,0.60844 -0.23402,0.18722 -0.28082,-0.93606 -0.0468,-2.19974 0.32762,-2.43376 1.59131,-1.02967 z m 0.79565,12.49643 c 0.37442,2.85499 0.23401,5.10154 -0.65525,8.42456 -0.51483,2.01253 -1.31048,2.71458 -1.31048,1.17008 0,-0.42123 -0.42123,-1.4509 -0.93606,-2.19975 -1.59131,-2.38696 -1.02967,-7.90972 1.02966,-10.39029 0.79566,-0.98286 1.4041,-0.0468 1.87213,2.9954 z" />
@@ -660,27 +675,29 @@
        transform="translate(0,527.95271)" />
     <flowRoot
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       id="flowRoot3450"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot3450"
+       transform="translate(0.182131,529.10592)"><flowRegion
          id="flowRegion3452"><use
            x="0"
            y="0"
            xlink:href="#path3448"
            id="use3454" /></flowRegion><flowPara
-         style="font-size:12px;font-weight:bold"
+         style="font-weight:bold;font-size:12px;line-height:1.25"
          id="flowPara3456">HET RIMBOEVERHAAL</flowPara><flowPara
-         style="font-size:12px"
-         id="flowPara3458" /><flowPara
+         style="font-size:12px;line-height:1.25"
+         id="flowPara3458"> </flowPara><flowPara
          id="flowPara3460"
-         style="font-size:12px">Ergens in India ligt de Rimboe. De Rimboe is een groot en dicht oerwoud met heel veel planten en dieren. </flowPara><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25">Ergens in India ligt de Rimboe. De Rimboe is een groot en dicht oerwoud met heel veel planten en dieren. </flowPara><flowPara
+         style="font-size:12px;line-height:1.25"
          id="flowPara3462">In de Rimboe ligt een grote grauwe rots. De Raadsrots. Hierachter slingert de brede Waingoengarivier zich een weg door het oerwoud. </flowPara><flowPara
          id="flowPara3464"
-         style="font-size:12px">Op een dag, lang geleden, verdwaalde een jongetje uit het mensendorp in de Rimboe. Toen hij nog maar net kon lopen ontsnapte hij aan een tijger en kwam terecht in een wolvenhol. Raksha, de moederwolf die in het hol woonde, besloot hem met haar eigen jongen groot te brengen. De wolven namen hem op in hun horde. Akela, de eenzame wolf, was de leider van deze horde. Ze noemden het jongetje Mowgli, wat kikvors betekend.</flowPara><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25">Op een dag, lang geleden, verdwaalde een jongetje uit het mensendorp in de Rimboe. Toen hij nog maar net kon lopen ontsnapte hij aan een tijger en kwam terecht in een wolvenhol. Raksha, de moederwolf die in het hol woonde, besloot hem met haar eigen jongen groot te brengen. De wolven namen hem op in hun horde. Akela, de eenzame wolf, was de leider van deze horde. Ze noemden het jongetje Mowgli, wat kikvors betekend.  </flowPara><flowPara
+         style="font-size:12px;line-height:1.25"
          id="flowPara3466" /><flowPara
-         style="font-size:12px"
-         id="flowPara3468" /></flowRoot>    <path
+         style="font-size:12px;line-height:1.25"
+         id="flowPara3468" /></flowRoot>
+    <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 372.04724,538.58261 0,53.14961"

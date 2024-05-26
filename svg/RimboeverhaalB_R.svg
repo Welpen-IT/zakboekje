@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="RimboeverhaalB_R.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="RimboeverhaalB_R.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -79,19 +79,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.787898"
-     inkscape:cx="89.958891"
-     inkscape:cy="162.61334"
+     inkscape:zoom="3.9426832"
+     inkscape:cx="158.6483"
+     inkscape:cy="331.11968"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1440"
-     inkscape:window-height="825"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -99,9 +100,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="5mm"
-       spacingy="5mm"
-       units="mm" />
+       spacingx="17.716535"
+       spacingy="17.716535"
+       units="mm"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid2920"
@@ -110,9 +113,11 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       spacingx="2.5mm"
-       spacingy="2.5mm"
-       dotted="true" />
+       spacingx="8.8582677"
+       spacingy="8.8582677"
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -154,28 +159,31 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="35.433071"
        y="556.29913"
        id="text3803"><tspan
          sodipodi:role="line"
          id="tspan3805"
          x="35.433071"
-         y="556.29913">Pagina : Test page A</tspan></text>
+         y="556.29913"
+         style="font-size:14px;line-height:1.25">Pagina : Test page A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
        x="35.433071"
        y="574.01569"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
          x="35.433071"
-         y="574.01569">Datum : 11 sep 2010</tspan><tspan
+         y="574.01569"
+         style="font-size:14px;line-height:1.25">Datum : 15 jun 2024</tspan><tspan
          sodipodi:role="line"
          x="35.433071"
          y="591.51569"
-         id="tspan3811" /></text>
+         id="tspan3811"
+         style="font-size:14px;line-height:1.25"> </tspan></text>
     <g
        id="g3164"
        transform="matrix(-0.518404,0,0,0.518404,341.38506,805.43248)">
@@ -247,14 +255,16 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2884"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion2886"><rect
            id="rect2888"
            width="111.19489"
            height="27.260681"
            x="347.215"
            y="285.51978" /></flowRegion><flowPara
-         id="flowPara2890" /></flowRoot>    <path
+         id="flowPara2890"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <path
        style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 17.716535,99.212573 0,336.614177 88.582675,0 0,-26.57481 53.14961,-17.71653 0,-26.57481 17.71653,-17.71653 53.14961,-35.43307 17.71654,-8.85827 17.71653,0 0,-203.740157 -248.031495,0 z"
        id="path2892"
@@ -262,40 +272,42 @@
        sodipodi:nodetypes="cccccccccccc" />
     <flowRoot
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       id="flowRoot2894"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot2894"
+       transform="translate(0.477954,530.43136)"><flowRegion
          id="flowRegion2896"><use
            x="0"
            y="0"
            xlink:href="#path2892"
            id="use2898" /></flowRegion><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25"
          id="flowPara2900">Mowgli leerde veel van de wolven en de welpen met wie hij opgroeide. Ook leerde hij veel van Baloe de beer en Bagheerah de zwarte panter. Baloe leerde Mowgli de junglewetten en de taal van alle dieren. Dit kwam van pas toen de jongen in moeilijkheden kwam bij de Bandar-log, het apenvolk. </flowPara><flowPara
          id="flowPara2902"
-         style="font-size:12px">Bagheerah leerde Mowgli hoe hij moest jagen en doden. En ook alles over het buitenleven en het verkennen van de Rimboe. </flowPara><flowPara
+         style="font-size:12px;line-height:1.25">Bagheerah leerde Mowgli hoe hij moest jagen en doden. En ook alles over het buitenleven en het verkennen van de Rimboe. </flowPara><flowPara
          id="flowPara2904"
-         style="font-size:12px">Hij beleefde veel avonturen met kolonel Hathi, de olifant en Kaa de wijze slang. Met behulp van Rama de stier doodde hij Shere Khan de tijger en spreidde zijn huid over de Raadsrots. Bij de Raadsrots kwamen de wolven bij elkaar om te spreken. </flowPara><flowPara
+         style="font-size:12px;line-height:1.25">Hij beleefde veel avonturen met kolonel Hathi, de olifant en Kaa de wijze slang. Met behulp van Rama de stier doodde hij Shere Khan de tijger en spreidde zijn huid over de Raadsrots. Bij de Raadsrots kwamen de wolven bij elkaar om te spreken. </flowPara><flowPara
          id="flowPara2906"
-         style="font-size:12px">Meer avonturen kun je lezen in ‘Het Djungelboek’, dat is geschreven door Rudyard Kipling.</flowPara><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25">Meer avonturen kun je lezen in ‘Het Jungelboek’, dat is geschreven door Rudyard Kipling.      </flowPara><flowPara
+         style="font-size:12px;line-height:1.25"
          id="flowPara2908" /><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25"
          id="flowPara2910" /><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25"
          id="flowPara2912" /><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25"
          id="flowPara2914" /><flowPara
-         style="font-size:12px"
+         style="font-size:12px;line-height:1.25"
          id="flowPara2916" /><flowPara
-         style="font-size:12px"
-         id="flowPara2918" /></flowRoot>    <text
+         style="font-size:12px;line-height:1.25"
+         id="flowPara2918" /></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
        id="text2867"><textPath
          xlink:href="#path2882"
          id="textPath2884"><tspan
-   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-   id="tspan2869">Shere Khan</tspan></textPath></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           id="tspan2869">Shere Khan</tspan></textPath></text>
     <path
        style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 159.97716,364.79096 c 0,0 10.53336,-12.77723 17.18819,-17.54689 7.81415,-5.60057 16.15514,-4.45599 23.70526,-10.29304 10.29669,-7.96044 11.72782,-16.28176 11.72782,-16.28176"
