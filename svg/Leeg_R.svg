@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="Leeg_R.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Leeg_R.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -92,18 +92,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.393949"
-     inkscape:cx="173.46936"
-     inkscape:cy="318.16085"
+     inkscape:zoom="1.2852687"
+     inkscape:cx="149.77413"
+     inkscape:cy="292.15681"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="950"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -111,9 +112,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="5mm"
-       spacingy="5mm"
-       units="mm" />
+       spacingx="17.716535"
+       spacingy="17.716535"
+       units="mm"
+       originx="0"
+       originy="0" />
     <inkscape:grid
        type="xygrid"
        id="grid2990"
@@ -122,9 +125,11 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       spacingx="2.5mm"
-       spacingy="2.5mm"
-       dotted="true" />
+       spacingx="8.8582677"
+       spacingy="8.8582677"
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -145,73 +150,77 @@
      transform="translate(0,-527.95271)"
      style="opacity:1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 301.1811,981.49599 0,53.14961"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 323.53965,999.379 v 56.7213"
        id="path2910"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 318.89764,963.77946 34.67379,0.22779"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 342.44675,980.47193 37.00389,0.24309"
        id="path2912"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 301.1811,538.58261 0,53.14961"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 323.53965,526.70167 v 56.72128"
        id="path2910-4"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 318.89764,609.44875 34.67379,0.22779"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 342.44675,602.33004 37.00389,0.2431"
        id="path2912-9"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="35.433071"
-       y="556.29913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8064px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0672"
+       x="39.933243"
+       y="545.60876"
        id="text3803"><tspan
          sodipodi:role="line"
-         x="35.433071"
-         y="573.79913"
-         id="tspan2921">Pagina : Leeg Rechts</tspan></text>
+         x="39.933243"
+         y="545.60876"
+         id="tspan2921"
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Pagina : Leeg Rechts</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="35.433071"
-       y="574.01569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8064px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0672"
+       x="39.933243"
+       y="564.51587"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
-         x="35.433071"
-         y="574.01569">Datum : 11 sep 2010</tspan><tspan
+         x="39.933243"
+         y="564.51587"
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Datum : 27 sep 2024</tspan><tspan
          sodipodi:role="line"
-         x="35.433071"
-         y="591.51569"
-         id="tspan3811" /></text>
+         x="39.933243"
+         y="583.19189"
+         id="tspan3811"
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672"> </tspan></text>
     <path
-       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 17.716535,90.354306 194.881895,0 -8.85827,26.574804 -26.57481,17.71653 0,88.58268 35.43308,26.5748 79.7244,0 0,177.16536 -283.4645623,0 0,-336.614174 8.8582673,0 z"
+       style="fill:none;stroke:none;stroke-width:1.0672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.02615,611.78359 h 207.97804 l -9.45355,28.36064 -28.36065,18.90709 v 94.53547 l 37.8142,28.36064 H 314.0861 V 971.01838 H 11.572603 V 611.78359 Z"
        id="path2992"
-       transform="translate(0,527.95271)"
        sodipodi:nodetypes="ccccccccccc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3008"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3010"><rect
            id="rect3012"
            width="44.119263"
            height="17.575966"
            x="150.65114"
            y="336.45419" /></flowRegion><flowPara
-         id="flowPara3014" /></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 0,538.58261 0,53.14961"
+         id="flowPara3014"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.1190559,526.70167 v 56.72128"
        id="path2910-4-1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 0,981.49602 0,53.14958"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.1190559,999.379 v 56.7213"
        id="path2910-0"
        sodipodi:nodetypes="cc" />
   </g>

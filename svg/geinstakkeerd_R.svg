@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="372.04724"
    height="524.40942"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="geinstakkeerd_R.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="geinstakkeerd_R.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -474,22 +474,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.393949"
-     inkscape:cx="186.02362"
+     inkscape:cx="186.16176"
      inkscape:cy="260.76994"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1280"
-     inkscape:window-height="950"
+     inkscape:window-width="1920"
+     inkscape:window-height="995"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -497,9 +498,11 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       spacingx="5mm"
-       spacingy="5mm"
-       units="mm" />
+       spacingx="17.716535"
+       spacingy="17.716535"
+       units="mm"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        orientation="0,1"
        position="372.04724,496.06299"
@@ -512,9 +515,11 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       spacingx="2.5mm"
-       spacingy="2.5mm"
-       dotted="true" />
+       spacingx="8.8582677"
+       spacingy="8.8582677"
+       dotted="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -535,92 +540,99 @@
      transform="translate(0,-527.95271)"
      style="opacity:1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 301.1811,981.49599 0,53.14961"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.8537,998.3722 v 56.6009"
        id="path2910"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 319.65692,963.55167 34.67379,0.22779"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 342.52927,979.2626 36.92538,0.24258"
        id="path2912"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 301.1811,538.58261 0,53.1496"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.8537,526.69765 v 56.60094"
        id="path2910-4"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 318.89764,609.44875 34.67379,0.22779"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 341.72069,602.16557 36.92537,0.24258"
        id="path2912-9"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="35.433071"
-       y="556.29913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="39.849007"
+       y="545.56464"
        id="text3803"><tspan
          sodipodi:role="line"
          id="tspan3805"
-         x="35.433071"
-         y="556.29913">Pagina : geinstalleerd</tspan></text>
+         x="39.849007"
+         y="545.56464"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Pagina : geinstalleerd</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="35.433071"
-       y="574.01569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="39.849007"
+       y="564.43164"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
-         x="35.433071"
-         y="574.01569">Datum : 11 sep 2010</tspan><tspan
+         x="39.849007"
+         y="564.43164"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Datum : 27 sep 2024</tspan><tspan
          sodipodi:role="line"
-         x="35.433071"
-         y="591.51569"
-         id="tspan3811" /></text>
+         x="39.849007"
+         y="583.06799"
+         id="tspan3811"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 0,538.58261 0,53.1496"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.1150445,526.69765 v 56.60094"
        id="path2910-4-1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 0,981.49599 0,53.14961"
+       style="fill:none;stroke:#000000;stroke-width:3.7734;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.1150445,998.3722 v 56.6009"
        id="path2910-5"
        sodipodi:nodetypes="cc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3506"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3508"><rect
            id="rect3510"
            width="168.5858"
            height="202.30295"
            x="66.716934"
            y="200.86818" /></flowRegion><flowPara
-         id="flowPara3512" /></flowRoot>    <flowRoot
+         id="flowPara3512"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot3514"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:FreeSans;font-style:normal;font-weight:normal;font-size:14;-inkscape-font-specification:FreeSans;font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion3516"><rect
            id="rect3518"
            width="161.41193"
            height="200.15079"
            x="53.803978"
            y="206.60727" /></flowRegion><flowPara
-         id="flowPara3520" /></flowRoot>    <text
+         id="flowPara3520"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="66.716934"
-       y="138.45557"
-       id="text2889"
-       transform="translate(0,527.95271)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="73.164322"
+       y="662.82385"
+       id="text2889"><tspan
          sodipodi:role="line"
          id="tspan2891"
-         x="66.716934"
-         y="138.45557" /></text>
+         x="73.164322"
+         y="662.82385"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <g
-       transform="matrix(0.6928093,0,0,0.72928949,0.8636602,609.50397)"
+       transform="matrix(0.73779771,0,0,0.77664679,3.0347875,602.22438)"
        style="overflow:visible"
        i:dimmedPercent="50"
        i:knockout="Off"
@@ -641,7 +653,7 @@
            style="fill:#e8e4d4"
            id="path11" />
         <path
-           d="m 85.736,3.188 c 35.064,7.56 71.424,11.808 110.88,13.14 39.492,1.116 92.125,-5.112 124.02,-5.616 31.645,-0.612 46.729,0 64.838,2.808 17.963,2.844 31.787,7.488 42.299,14.076 -5.436,12.6 -12.816,21.853 -22.572,28.188 -9.756,6.228 -12.022,7.416 -35.676,9.396 -23.977,1.872 -72.106,1.08 -106.199,1.908 -34.129,0.756 -65.557,0.216 -96.769,2.808 C 135.309,72.38 106.005,76.448 77.277,82.1 66.405,63.127 61.797,47.431 63.165,34.184 64.604,20.898 71.984,10.747 85.736,3.188 z"
+           d="m 85.736,3.188 c 35.064,7.56 71.424,11.808 110.88,13.14 39.492,1.116 92.125,-5.112 124.02,-5.616 31.645,-0.612 46.729,0 64.838,2.808 17.963,2.844 31.787,7.488 42.299,14.076 -5.436,12.6 -12.816,21.853 -22.572,28.188 -9.756,6.228 -12.022,7.416 -35.676,9.396 -23.977,1.872 -72.106,1.08 -106.199,1.908 -34.129,0.756 -65.557,0.216 -96.769,2.808 C 135.309,72.38 106.005,76.448 77.277,82.1 66.405,63.127 61.797,47.431 63.165,34.184 64.604,20.898 71.984,10.747 85.736,3.188 Z"
            i:knockout="Off"
            style="fill:#bbbda7"
            id="path13" />
@@ -689,98 +701,107 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="-75.01783"
-       y="897.47729"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="-67.766937"
+       y="910.44354"
        id="text3626"
-       transform="matrix(0.9766989,-0.21461421,0.21461421,0.9766989,0,0)"
-       sodipodi:linespacing="100%"><tspan
+       transform="rotate(-12.392895)"><tspan
          sodipodi:role="line"
          id="tspan3630"
-         style="font-size:32px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
-         x="-75.01783"
-         y="897.47729">Akela</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.078px;line-height:100%;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.06494"
+         x="-67.766937"
+         y="910.44354">Akela</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="79.192406"
-       y="694.97943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="86.449905"
+       y="693.25031"
        id="text2893"><tspan
          sodipodi:role="line"
          id="tspan2895"
-         x="79.192406"
-         y="694.97943">Op ____ - ____ - ____</tspan></text>
+         x="86.449905"
+         y="693.25031"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Op ____ - ____ - ____</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="80.03241"
-       y="717.0957"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="87.344452"
+       y="716.80273"
        id="text2897"><tspan
          sodipodi:role="line"
          id="tspan2899"
-         x="80.03241"
-         y="717.0957">werd ik geïnstalleerd</tspan><tspan
+         x="87.344452"
+         y="716.80273"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">werd ik geïnstalleerd</tspan><tspan
          sodipodi:role="line"
-         x="80.03241"
-         y="734.5957"
-         id="tspan2901">als welp van de :</tspan><tspan
+         x="87.344452"
+         y="735.43909"
+         id="tspan2901"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">als welp van de :</tspan><tspan
          sodipodi:role="line"
-         x="80.03241"
-         y="752.0957"
-         id="tspan3043">_______________ horde, </tspan></text>
+         x="87.344452"
+         y="754.0755"
+         id="tspan3043"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">_______________ horde, </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="61.587875"
-       y="779.27155"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="67.702202"
+       y="783.01599"
        id="text2903"><tspan
          sodipodi:role="line"
          id="tspan2905"
-         x="61.587875"
-         y="779.27155">van de Scouting Bennekom groep</tspan></text>
+         x="67.702202"
+         y="783.01599"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">van de Scouting Bennekom groep</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="61.769875"
-       y="805.67834"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="67.896019"
+       y="811.13757"
        id="text3045"><tspan
          sodipodi:role="line"
          id="tspan3047"
-         x="61.769875"
-         y="805.67834">Handtekening :</tspan><tspan
+         x="67.896019"
+         y="811.13757"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Handtekening :</tspan><tspan
          sodipodi:role="line"
-         x="61.769875"
-         y="823.17834"
-         id="tspan3049" /><tspan
+         x="67.896019"
+         y="829.77393"
+         id="tspan3049"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan><tspan
          sodipodi:role="line"
-         x="61.769875"
-         y="840.67834"
-         id="tspan3059">Welp : ______________</tspan><tspan
+         x="67.896019"
+         y="848.41034"
+         id="tspan3059"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Welp : ______________</tspan><tspan
          sodipodi:role="line"
-         x="61.769875"
-         y="858.17834"
-         id="tspan3051" /><tspan
+         x="67.896019"
+         y="867.04669"
+         id="tspan3051"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan><tspan
          sodipodi:role="line"
-         x="61.769875"
-         y="875.67834"
-         id="tspan3057">Akela : </tspan></text>
+         x="67.896019"
+         y="885.68304"
+         id="tspan3057"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Akela : </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-       x="137.73817"
-       y="167.15102"
-       id="text3053"
-       transform="translate(0,527.95271)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="148.79741"
+       y="693.38263"
+       id="text3053"><tspan
          sodipodi:role="line"
          id="tspan3055"
-         x="137.73817"
-         y="167.15102" /></text>
+         x="148.79741"
+         y="693.38263"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <g
        id="g3813"
-       transform="matrix(0.4977873,0,0,0.4977873,141.88757,338.86218)">
+       transform="matrix(0.53011172,0,0,0.53011172,153.21626,314.00814)">
       <g
          id="g2300"
-         style="fill-opacity:0.07954544"
+         style="fill-opacity:0.0795454"
          transform="matrix(2.713103,0,0,2.713103,-304.24171,618.76693)">
         <path
            d="m 165.98017,227.75087 c -7.49395,1.26032 -6.93543,-6.08162 -10.94164,-7.51631 -4.00621,-1.43471 -8.33392,4.67492 -13.09561,-1.09191 -4.59943,-5.57032 1.79912,-9.04706 1.0385,-13.23389 -0.76061,-4.18684 -7.17462,-3.55666 -4.13607,-11.70382 2.7426,-7.35362 7.26843,-3.14872 10.51402,-5.90084 3.2456,-2.75212 0.0751,-8.29555 7.31016,-9.51233 8.70624,-1.4642 7.11869,4.79876 11.1249,6.23346 4.00621,1.43471 7.58232,-5.5852 13.09562,1.0919 5.56555,6.74038 -1.79912,9.04707 -1.03851,13.2339 0.76061,4.18683 8.24565,4.79928 5.60219,11.88708 -2.54638,6.82756 -8.73455,2.96545 -11.98014,5.71758 -3.24559,2.75212 0.14146,9.51116 -7.49342,10.79518 z"
@@ -817,56 +838,41 @@
          sodipodi:nodetypes="czzzzzzzzzzzz"
          id="path1958"
          d="m 145.55964,1218.2642 c -16.24205,2.7316 -15.03154,-13.181 -23.71442,-16.2905 -8.68287,-3.1095 -18.06256,10.1322 -28.38283,-2.3665 -9.968597,-12.0729 3.89933,-19.6082 2.250819,-28.6826 -1.648523,-9.0743 -18.727569,-8.1057 -12.141945,-25.7635 5.944169,-15.9379 18.930866,-6.4272 25.965216,-12.392 7.03434,-5.9648 0.56007,-20.7598 16.24087,-23.397 18.86952,-3.1734 15.03155,13.181 23.71441,16.2905 8.68288,3.1096 16.43358,-12.1051 28.38284,2.3666 12.06253,14.6088 -3.89934,19.6082 -2.25082,28.6825 1.64853,9.0744 17.87125,10.4018 12.14195,25.7635 -5.51894,14.7978 -18.93086,6.4272 -25.96521,12.392 -7.03435,5.9649 0.30659,20.6141 -16.24088,23.397 z" />
-      <path
+      <circle
          transform="matrix(0.21992586,0.0820232,-0.0820232,0.21992586,107.79457,1045.7115)"
-         style="fill:#cb0000;fill-rule:evenodd;stroke:#000000;stroke-width:19.77270317;stroke-opacity:0.06918233"
-         sodipodi:type="arc"
-         sodipodi:ry="166.98976"
-         sodipodi:rx="166.98976"
-         sodipodi:cy="450.62323"
-         sodipodi:cx="293.67163"
+         style="fill:#cb0000;fill-rule:evenodd;stroke:#000000;stroke-width:19.7727;stroke-opacity:0.0691823"
          id="path1359"
-         d="m 460.66139,450.62323 c 0,92.2259 -74.76386,166.98976 -166.98976,166.98976 -92.2259,0 -166.98976,-74.76386 -166.98976,-166.98976 0,-92.2259 74.76386,-166.98976 166.98976,-166.98976 92.2259,0 166.98976,74.76386 166.98976,166.98976 z" />
-      <path
+         cx="293.67163"
+         cy="450.62323"
+         r="166.98976" />
+      <circle
          transform="matrix(0.17821548,0.06646697,-0.06646697,0.17821548,113.16243,1061.6987)"
          style="fill:url(#linearGradient3843);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
-         sodipodi:type="arc"
-         sodipodi:ry="166.98976"
-         sodipodi:rx="166.98976"
-         sodipodi:cy="450.62323"
-         sodipodi:cx="293.67163"
          id="path1360"
-         d="m 460.66139,450.62323 c 0,92.2259 -74.76386,166.98976 -166.98976,166.98976 -92.2259,0 -166.98976,-74.76386 -166.98976,-166.98976 0,-92.2259 74.76386,-166.98976 166.98976,-166.98976 92.2259,0 166.98976,74.76386 166.98976,166.98976 z" />
-      <path
+         cx="293.67163"
+         cy="450.62323"
+         r="166.98976" />
+      <circle
          transform="matrix(0.17621314,0.06571985,-0.06571985,0.17621314,116.09915,1072.9824)"
          style="fill:url(#linearGradient3845);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
-         sodipodi:type="arc"
-         sodipodi:ry="166.98976"
-         sodipodi:rx="166.98976"
-         sodipodi:cy="450.62323"
-         sodipodi:cx="293.67163"
          id="path1957"
-         d="m 460.66139,450.62323 c 0,92.2259 -74.76386,166.98976 -166.98976,166.98976 -92.2259,0 -166.98976,-74.76386 -166.98976,-166.98976 0,-92.2259 74.76386,-166.98976 166.98976,-166.98976 92.2259,0 166.98976,74.76386 166.98976,166.98976 z" />
-      <path
+         cx="293.67163"
+         cy="450.62323"
+         r="166.98976" />
+      <circle
          transform="matrix(0.17821548,0.06646697,-0.06646697,0.17821548,111.06734,1074.7718)"
          style="fill:url(#linearGradient3847);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
-         sodipodi:type="arc"
-         sodipodi:ry="166.98976"
-         sodipodi:rx="166.98976"
-         sodipodi:cy="450.62323"
-         sodipodi:cx="293.67163"
          id="path1361"
-         d="m 460.66139,450.62323 c 0,92.2259 -74.76386,166.98976 -166.98976,166.98976 -92.2259,0 -166.98976,-74.76386 -166.98976,-166.98976 0,-92.2259 74.76386,-166.98976 166.98976,-166.98976 92.2259,0 166.98976,74.76386 166.98976,166.98976 z" />
-      <path
+         cx="293.67163"
+         cy="450.62323"
+         r="166.98976" />
+      <circle
          transform="matrix(0.13703956,0.05110989,-0.05110989,0.13703956,110.58883,1083.7851)"
          style="fill:url(#linearGradient3849);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
-         sodipodi:type="arc"
-         sodipodi:ry="166.98976"
-         sodipodi:rx="166.98976"
-         sodipodi:cy="450.62323"
-         sodipodi:cx="293.67163"
          id="path1956"
-         d="m 460.66139,450.62323 c 0,92.2259 -74.76386,166.98976 -166.98976,166.98976 -92.2259,0 -166.98976,-74.76386 -166.98976,-166.98976 0,-92.2259 74.76386,-166.98976 166.98976,-166.98976 92.2259,0 166.98976,74.76386 166.98976,166.98976 z" />
+         cx="293.67163"
+         cy="450.62323"
+         r="166.98976" />
       <path
          style="fill:url(#linearGradient3851)"
          sodipodi:nodetypes="ccc"
@@ -895,25 +901,25 @@
       <g
          id="g6"
          transform="matrix(0.01563224,0,0,-0.01563224,103.75135,1203.3643)"
-         style="fill:#000000;fill-opacity:0.43612336;stroke:none">
+         style="fill:#000000;fill-opacity:0.436123;stroke:none">
         <path
-           style="fill:#000000;fill-opacity:0.43612336"
+           style="fill:#000000;fill-opacity:0.436123"
            id="path8"
-           d="m 842,3983 c -50,-24 -138,-118 -166,-177 -27,-57 -49,-166 -66,-321 -14,-134 -18,-151 -33,-136 -20,20 -28,12 -13,-16 7,-16 17,-43 21,-60 l 7,-33 -44,-1 c -33,0 -38,-2 -23,-9 12,-4 27,-16 35,-25 13,-15 12,-19 -5,-31 -10,-8 -27,-12 -37,-8 -34,10 -11,-63 35,-113 l 20,-23 -20,-22 c -22,-25 -63,-101 -63,-118 0,-6 11,-15 25,-20 67,-25 31,-74 -49,-67 l -48,4 6,-44 c 9,-67 34,-112 87,-152 26,-20 48,-39 48,-42 1,-3 -20,-13 -47,-21 l -47,-16 70,-1 c 39,-1 83,-8 100,-15 l 30,-12 -46,-12 c -51,-13 -148,-74 -194,-122 l -29,-31 43,16 c 53,18 91,19 115,2 17,-12 13,-16 -39,-41 -56,-28 -168,-124 -206,-177 l -20,-28 66,24 c 66,25 119,32 129,16 3,-4 -13,-17 -36,-27 -67,-30 -116,-71 -154,-129 -21,-30 -35,-58 -32,-61 3,-3 47,4 97,16 50,12 99,20 108,17 16,-3 16,-5 -2,-11 -105,-37 -224,-150 -250,-237 -8,-29 -15,-63 -15,-76 0,-21 7,-18 74,36 81,64 161,107 216,116 29,4 38,1 52,-19 17,-24 17,-24 -30,-41 -77,-29 -144,-71 -194,-122 -41,-43 -88,-115 -88,-136 0,-4 23,8 51,28 88,61 133,43 74,-29 -40,-49 -108,-177 -98,-185 3,-4 8,0 10,7 3,7 18,19 35,28 41,21 55,6 34,-34 -26,-50 -46,-151 -46,-233 0,-70 14,-176 25,-187 2,-3 20,9 40,27 39,34 72,40 82,16 3,-9 -6,-42 -21,-74 -14,-32 -29,-74 -33,-92 l -6,-33 37,36 c 37,36 85,56 106,43 6,-4 3,-20 -9,-43 -24,-47 -33,-107 -23,-152 l 8,-35 27,42 c 30,48 53,63 95,63 29,0 29,0 24,-54 -2,-30 1,-71 8,-92 12,-38 50,-104 60,-104 3,0 6,18 7,40 1,44 22,83 53,100 19,10 20,8 20,-44 0,-61 10,-95 43,-143 27,-40 37,-41 37,-5 1,35 31,102 58,125 20,19 21,18 47,-33 45,-88 155,-190 233,-214 l 22,-7 -25,37 c -22,33 -24,40 -12,58 21,31 33,30 48,-6 20,-49 116,-139 189,-177 l 65,-34 -25,29 c -14,16 -64,70 -112,121 -80,85 -188,240 -188,270 0,22 -12,15 -61,-33 l -47,-46 -12,37 c -17,52 -15,146 4,183 9,17 16,33 16,37 0,14 -109,3 -145,-15 -22,-11 -40,-20 -41,-20 -2,0 1,14 6,30 15,52 50,115 86,153 28,30 32,37 17,37 -27,0 -113,-43 -157,-79 -48,-39 -53,-39 -25,0 19,27 113,229 126,270 6,21 -23,29 -101,29 l -59,0 22,24 c 32,34 107,64 169,68 29,2 52,6 52,9 0,3 -11,16 -25,29 -14,13 -25,28 -25,33 0,6 34,8 87,4 l 87,-5 -34,29 c -19,16 -60,41 -90,56 -51,26 -64,28 -182,28 -160,0 -159,4 28,122 32,20 -71,16 -151,-6 l -70,-19 55,50 55,51 -48,-5 c -26,-3 -47,-2 -47,2 0,11 58,54 110,80 43,23 44,24 20,31 -14,4 -43,8 -65,8 l -40,2 43,39 c 45,41 84,54 141,48 30,-3 35,-8 54,-58 19,-53 79,-154 98,-166 12,-7 12,-7 -12,56 -27,69 -39,230 -18,230 31,-1 99,-40 168,-99 40,-33 80,-61 88,-61 9,0 30,-13 49,-29 33,-30 88,-51 132,-51 18,0 22,-6 22,-30 0,-38 -23,-84 -52,-104 -22,-15 -20,-16 30,-16 67,0 109,18 152,64 37,39 75,47 84,18 3,-9 -1,-53 -9,-96 -20,-102 -20,-101 13,-125 28,-19 28,-19 97,0 85,23 214,25 304,4 59,-14 65,-14 85,2 12,10 22,18 23,18 1,1 -4,23 -12,50 -17,54 -19,113 -6,134 8,12 18,10 64,-13 30,-14 62,-38 71,-51 17,-26 68,-35 81,-15 5,9 -5,56 -31,148 -10,33 19,28 63,-12 l 36,-33 31,46 c 30,45 111,100 147,101 9,0 28,9 42,20 l 25,20 -19,-61 c -21,-67 -24,-115 -9,-124 6,-4 10,7 10,25 0,35 35,110 51,110 6,0 34,23 63,50 37,35 61,50 80,50 32,0 74,-20 98,-47 17,-18 16,-19 -17,-19 -20,0 -42,-7 -51,-15 -14,-14 -13,-18 11,-33 47,-31 89,-120 46,-96 -22,11 -61,13 -86,4 -14,-6 -13,-8 6,-22 28,-20 59,-88 59,-133 0,-36 0,-36 -50,-43 -51,-7 -59,-13 -39,-33 14,-14 -18,-31 -116,-63 -70,-22 -145,-58 -145,-69 0,-3 28,-14 61,-24 50,-15 72,-29 120,-77 33,-32 59,-63 59,-68 0,-5 -24,-14 -53,-21 -39,-8 -63,-21 -88,-47 l -34,-35 31,-27 c 31,-26 54,-61 54,-80 0,-5 -18,-17 -39,-27 -21,-9 -56,-35 -77,-56 l -38,-39 23,-24 c 21,-22 40,-78 41,-118 0,-15 -9,-18 -47,-18 -98,0 -95,5 -87,-134 7,-135 -4,-231 -37,-305 l -19,-44 20,18 c 23,21 80,134 80,159 0,38 53,-6 80,-67 l 18,-41 8,38 c 4,22 2,55 -5,78 -7,22 -10,42 -7,45 10,10 66,-9 120,-42 l 56,-34 0,30 c 0,31 -22,82 -48,112 -14,15 -13,17 5,17 47,0 151,-41 190,-75 23,-19 44,-35 47,-35 24,0 -15,116 -60,177 l -16,23 74,0 c 65,0 109,-8 196,-35 20,-7 22,-4 22,26 -1,52 -36,118 -93,176 l -51,53 44,0 c 25,-1 70,-10 100,-21 100,-36 93,-38 85,17 -4,27 -18,76 -32,109 -13,33 -27,67 -30,75 -10,25 74,-60 114,-116 21,-29 41,-53 45,-54 22,-1 37,206 19,283 -5,20 -5,37 -1,37 19,0 60,-44 81,-88 l 23,-47 9,45 c 12,69 -2,187 -39,312 -7,25 22,13 63,-25 l 33,-31 -9,30 c -16,53 -31,85 -71,154 -22,38 -40,71 -40,74 0,14 40,4 74,-19 l 37,-25 -7,22 c -13,44 -54,118 -86,155 -69,82 -67,77 -33,69 17,-4 47,-21 69,-38 37,-30 38,-30 31,-7 -15,51 -73,133 -137,195 -67,65 -70,72 -24,54 21,-8 26,-7 26,6 0,31 -34,87 -88,145 -50,54 -59,79 -29,79 7,0 29,-14 50,-31 22,-18 37,-25 37,-17 0,30 -62,108 -125,157 -29,22 -29,23 -10,37 11,8 30,17 43,21 13,3 21,10 19,17 -5,18 -69,46 -104,46 -22,0 -33,5 -33,15 0,19 31,35 69,35 17,0 31,4 31,9 0,14 -39,21 -112,21 -61,0 -68,2 -68,20 0,26 32,58 67,66 56,12 58,17 13,30 -25,7 -63,16 -84,19 l -39,6 39,24 c 25,16 55,25 84,25 39,1 42,2 25,12 -11,6 -21,12 -23,13 -1,1 9,22 22,46 14,24 26,64 28,89 l 3,44 -45,-3 c -77,-4 -109,45 -45,69 21,8 25,14 19,33 -11,36 -35,80 -56,103 -19,22 -19,22 11,65 17,24 33,57 37,73 6,25 4,27 -13,22 -10,-3 -28,0 -38,8 -17,12 -18,16 -5,31 8,9 23,21 35,25 15,7 9,9 -24,9 -43,1 -43,1 -37,33 3,17 13,44 20,60 15,29 9,37 -12,16 -16,-16 -17,-9 -37,167 -19,166 -35,236 -66,296 -43,86 -163,189 -219,189 -35,0 -91,-60 -183,-195 -53,-78 -91,-123 -133,-155 -32,-26 -74,-68 -92,-96 -19,-27 -38,-51 -43,-52 -5,-2 -15,11 -23,28 l -13,32 -6,-38 c -4,-22 -7,-55 -7,-74 0,-31 -6,-39 -49,-67 -33,-21 -51,-28 -54,-20 -2,7 -16,0 -35,-19 l -31,-32 -3,52 c -3,48 -4,49 -15,25 -6,-14 -26,-38 -45,-54 l -33,-28 -7,48 c -11,80 -16,83 -44,27 -36,-72 -49,-81 -68,-43 -15,28 -51,61 -68,61 -5,0 -8,-9 -8,-20 0,-22 -20,-70 -29,-70 -3,0 -21,22 -39,48 -68,96 -64,94 -59,30 2,-32 1,-58 -3,-58 -4,0 -26,14 -49,31 l -43,31 6,-34 6,-33 -22,29 c -13,16 -33,41 -45,55 l -22,26 -1,-42 c 0,-24 -2,-43 -5,-43 -3,0 -28,15 -55,33 -47,30 -50,35 -51,77 -1,25 -4,59 -8,75 l -7,30 -12,-33 c -6,-19 -16,-32 -22,-30 -5,1 -25,25 -42,52 -18,28 -60,71 -93,96 -43,33 -82,79 -138,161 -128,187 -159,210 -235,172 z m 372,-532 c 70,-30 201,-140 222,-184 l 18,-38 -32,-31 -31,-32 -38,17 c -40,18 -61,21 -103,18 -22,-1 -20,-4 16,-20 23,-10 49,-29 58,-42 16,-23 16,-24 -14,-33 -20,-6 -39,-5 -57,3 -34,16 -46,0 -39,-51 4,-34 2,-38 -19,-38 -12,0 -42,7 -65,15 -24,8 -45,13 -48,11 -7,-8 26,-49 50,-63 42,-23 -8,-15 -66,11 -56,25 -140,95 -178,149 l -21,29 21,-11 c 11,-6 33,-11 49,-11 l 28,0 -30,19 c -16,10 -41,30 -54,44 l -24,26 46,11 c 25,7 60,25 78,40 l 34,28 -27,11 c -15,5 -44,8 -65,5 l -38,-4 40,20 c 22,11 57,23 77,26 47,8 40,24 -10,24 -57,0 -19,18 55,26 67,7 84,25 41,45 -18,7 -11,8 29,5 29,-3 73,-14 97,-25 z m 1369,19 c -42,-17 -27,-37 35,-45 80,-9 111,-23 55,-24 -24,-1 -43,-5 -43,-11 0,-5 8,-10 18,-10 10,0 39,-7 65,-16 56,-19 76,-40 29,-31 -18,4 -44,2 -58,-4 -25,-9 -26,-11 -10,-28 20,-22 70,-48 110,-56 l 29,-6 -24,-26 c -13,-14 -37,-34 -54,-44 l -30,-19 28,0 c 16,0 38,5 50,11 16,9 14,3 -12,-29 -49,-62 -118,-119 -166,-138 l -44,-16 -42,33 -42,33 23,15 c 13,9 48,26 79,37 l 56,22 -50,7 c -28,5 -77,3 -110,-2 -33,-6 -62,-9 -64,-7 -8,7 10,52 33,87 20,29 22,37 10,37 -30,0 -81,-28 -107,-59 l -27,-32 -10,27 c -12,29 0,79 29,124 l 16,25 -30,-19 c -44,-28 -85,-67 -102,-99 -29,-57 -24,-17 6,45 26,52 45,74 108,123 85,66 167,104 228,104 34,0 37,-2 18,-9 z m -530,-965 c -9,-31 -18,-109 -22,-205 l -6,-155 -45,45 c -25,25 -59,72 -76,104 l -32,59 -30,-59 c -16,-32 -47,-79 -69,-103 l -39,-44 1,170 c 0,165 1,169 17,142 10,-16 21,-43 26,-61 l 9,-33 17,35 c 23,45 46,70 62,70 7,0 28,-25 46,-55 31,-51 48,-67 48,-45 0,41 91,202 106,188 2,-2 -4,-26 -13,-53 z m 438,-212 c 27,-16 49,-32 49,-38 -1,-5 -11,-22 -23,-37 -22,-27 -23,-27 -62,-13 -22,8 -66,14 -97,15 -46,0 -61,-4 -78,-22 -11,-12 -20,-32 -20,-43 0,-12 -11,-38 -24,-58 -22,-33 -46,-127 -32,-127 3,0 20,9 37,19 21,13 42,17 68,14 66,-9 104,16 147,97 34,66 39,71 63,65 14,-3 37,-13 49,-21 22,-14 22,-17 8,-33 -9,-10 -26,-49 -39,-87 -27,-85 -48,-99 -128,-84 -51,10 -54,9 -74,-16 l -21,-26 -87,18 c -86,18 -87,18 -87,49 0,16 -5,65 -12,107 -15,100 -3,121 82,145 40,11 65,24 75,40 43,66 127,80 206,36 z m -1111,-14 c 58,-20 62,-20 104,-4 57,22 80,14 112,-41 56,-95 80,-228 50,-270 -14,-18 -16,-18 -44,-1 -17,9 -37,17 -46,17 -9,0 -13,6 -10,14 3,7 -5,32 -17,55 -13,26 -19,50 -15,66 8,30 -20,102 -45,115 -27,15 -119,11 -164,-6 -22,-9 -52,-18 -67,-21 -16,-3 -28,-8 -28,-10 0,-10 68,-98 97,-125 18,-17 51,-32 91,-42 97,-22 107,-37 72,-105 -34,-69 -123,-116 -173,-94 -23,11 -77,112 -112,208 -10,28 -30,62 -45,77 -25,23 -27,28 -15,46 8,10 28,25 45,32 17,7 38,27 47,44 37,73 62,80 163,45 z m 84,-75 c 19,-18 18,-14 5,-51 -13,-38 -66,-69 -102,-59 -43,10 -94,82 -74,103 24,23 150,29 171,7 z m 859,-23 c -5,-21 11,-36 28,-25 8,4 8,9 0,17 -6,6 -11,15 -11,19 0,11 43,10 73,-1 23,-9 25,-19 18,-73 -2,-13 -60,-38 -88,-38 -57,1 -81,50 -47,98 19,27 34,29 27,3 z" />
+           d="m 842,3983 c -50,-24 -138,-118 -166,-177 -27,-57 -49,-166 -66,-321 -14,-134 -18,-151 -33,-136 -20,20 -28,12 -13,-16 7,-16 17,-43 21,-60 l 7,-33 -44,-1 c -33,0 -38,-2 -23,-9 12,-4 27,-16 35,-25 13,-15 12,-19 -5,-31 -10,-8 -27,-12 -37,-8 -34,10 -11,-63 35,-113 l 20,-23 -20,-22 c -22,-25 -63,-101 -63,-118 0,-6 11,-15 25,-20 67,-25 31,-74 -49,-67 l -48,4 6,-44 c 9,-67 34,-112 87,-152 26,-20 48,-39 48,-42 1,-3 -20,-13 -47,-21 l -47,-16 70,-1 c 39,-1 83,-8 100,-15 l 30,-12 -46,-12 c -51,-13 -148,-74 -194,-122 l -29,-31 43,16 c 53,18 91,19 115,2 17,-12 13,-16 -39,-41 -56,-28 -168,-124 -206,-177 l -20,-28 66,24 c 66,25 119,32 129,16 3,-4 -13,-17 -36,-27 -67,-30 -116,-71 -154,-129 -21,-30 -35,-58 -32,-61 3,-3 47,4 97,16 50,12 99,20 108,17 16,-3 16,-5 -2,-11 -105,-37 -224,-150 -250,-237 -8,-29 -15,-63 -15,-76 0,-21 7,-18 74,36 81,64 161,107 216,116 29,4 38,1 52,-19 17,-24 17,-24 -30,-41 -77,-29 -144,-71 -194,-122 -41,-43 -88,-115 -88,-136 0,-4 23,8 51,28 88,61 133,43 74,-29 -40,-49 -108,-177 -98,-185 3,-4 8,0 10,7 3,7 18,19 35,28 41,21 55,6 34,-34 -26,-50 -46,-151 -46,-233 0,-70 14,-176 25,-187 2,-3 20,9 40,27 39,34 72,40 82,16 3,-9 -6,-42 -21,-74 -14,-32 -29,-74 -33,-92 l -6,-33 37,36 c 37,36 85,56 106,43 6,-4 3,-20 -9,-43 -24,-47 -33,-107 -23,-152 l 8,-35 27,42 c 30,48 53,63 95,63 29,0 29,0 24,-54 -2,-30 1,-71 8,-92 12,-38 50,-104 60,-104 3,0 6,18 7,40 1,44 22,83 53,100 19,10 20,8 20,-44 0,-61 10,-95 43,-143 27,-40 37,-41 37,-5 1,35 31,102 58,125 20,19 21,18 47,-33 45,-88 155,-190 233,-214 l 22,-7 -25,37 c -22,33 -24,40 -12,58 21,31 33,30 48,-6 20,-49 116,-139 189,-177 l 65,-34 -25,29 c -14,16 -64,70 -112,121 -80,85 -188,240 -188,270 0,22 -12,15 -61,-33 l -47,-46 -12,37 c -17,52 -15,146 4,183 9,17 16,33 16,37 0,14 -109,3 -145,-15 -22,-11 -40,-20 -41,-20 -2,0 1,14 6,30 15,52 50,115 86,153 28,30 32,37 17,37 -27,0 -113,-43 -157,-79 -48,-39 -53,-39 -25,0 19,27 113,229 126,270 6,21 -23,29 -101,29 h -59 l 22,24 c 32,34 107,64 169,68 29,2 52,6 52,9 0,3 -11,16 -25,29 -14,13 -25,28 -25,33 0,6 34,8 87,4 l 87,-5 -34,29 c -19,16 -60,41 -90,56 -51,26 -64,28 -182,28 -160,0 -159,4 28,122 32,20 -71,16 -151,-6 l -70,-19 55,50 55,51 -48,-5 c -26,-3 -47,-2 -47,2 0,11 58,54 110,80 43,23 44,24 20,31 -14,4 -43,8 -65,8 l -40,2 43,39 c 45,41 84,54 141,48 30,-3 35,-8 54,-58 19,-53 79,-154 98,-166 12,-7 12,-7 -12,56 -27,69 -39,230 -18,230 31,-1 99,-40 168,-99 40,-33 80,-61 88,-61 9,0 30,-13 49,-29 33,-30 88,-51 132,-51 18,0 22,-6 22,-30 0,-38 -23,-84 -52,-104 -22,-15 -20,-16 30,-16 67,0 109,18 152,64 37,39 75,47 84,18 3,-9 -1,-53 -9,-96 -20,-102 -20,-101 13,-125 28,-19 28,-19 97,0 85,23 214,25 304,4 59,-14 65,-14 85,2 12,10 22,18 23,18 1,1 -4,23 -12,50 -17,54 -19,113 -6,134 8,12 18,10 64,-13 30,-14 62,-38 71,-51 17,-26 68,-35 81,-15 5,9 -5,56 -31,148 -10,33 19,28 63,-12 l 36,-33 31,46 c 30,45 111,100 147,101 9,0 28,9 42,20 l 25,20 -19,-61 c -21,-67 -24,-115 -9,-124 6,-4 10,7 10,25 0,35 35,110 51,110 6,0 34,23 63,50 37,35 61,50 80,50 32,0 74,-20 98,-47 17,-18 16,-19 -17,-19 -20,0 -42,-7 -51,-15 -14,-14 -13,-18 11,-33 47,-31 89,-120 46,-96 -22,11 -61,13 -86,4 -14,-6 -13,-8 6,-22 28,-20 59,-88 59,-133 0,-36 0,-36 -50,-43 -51,-7 -59,-13 -39,-33 14,-14 -18,-31 -116,-63 -70,-22 -145,-58 -145,-69 0,-3 28,-14 61,-24 50,-15 72,-29 120,-77 33,-32 59,-63 59,-68 0,-5 -24,-14 -53,-21 -39,-8 -63,-21 -88,-47 l -34,-35 31,-27 c 31,-26 54,-61 54,-80 0,-5 -18,-17 -39,-27 -21,-9 -56,-35 -77,-56 l -38,-39 23,-24 c 21,-22 40,-78 41,-118 0,-15 -9,-18 -47,-18 -98,0 -95,5 -87,-134 7,-135 -4,-231 -37,-305 l -19,-44 20,18 c 23,21 80,134 80,159 0,38 53,-6 80,-67 l 18,-41 8,38 c 4,22 2,55 -5,78 -7,22 -10,42 -7,45 10,10 66,-9 120,-42 l 56,-34 v 30 c 0,31 -22,82 -48,112 -14,15 -13,17 5,17 47,0 151,-41 190,-75 23,-19 44,-35 47,-35 24,0 -15,116 -60,177 l -16,23 h 74 c 65,0 109,-8 196,-35 20,-7 22,-4 22,26 -1,52 -36,118 -93,176 l -51,53 h 44 c 25,-1 70,-10 100,-21 100,-36 93,-38 85,17 -4,27 -18,76 -32,109 -13,33 -27,67 -30,75 -10,25 74,-60 114,-116 21,-29 41,-53 45,-54 22,-1 37,206 19,283 -5,20 -5,37 -1,37 19,0 60,-44 81,-88 l 23,-47 9,45 c 12,69 -2,187 -39,312 -7,25 22,13 63,-25 l 33,-31 -9,30 c -16,53 -31,85 -71,154 -22,38 -40,71 -40,74 0,14 40,4 74,-19 l 37,-25 -7,22 c -13,44 -54,118 -86,155 -69,82 -67,77 -33,69 17,-4 47,-21 69,-38 37,-30 38,-30 31,-7 -15,51 -73,133 -137,195 -67,65 -70,72 -24,54 21,-8 26,-7 26,6 0,31 -34,87 -88,145 -50,54 -59,79 -29,79 7,0 29,-14 50,-31 22,-18 37,-25 37,-17 0,30 -62,108 -125,157 -29,22 -29,23 -10,37 11,8 30,17 43,21 13,3 21,10 19,17 -5,18 -69,46 -104,46 -22,0 -33,5 -33,15 0,19 31,35 69,35 17,0 31,4 31,9 0,14 -39,21 -112,21 -61,0 -68,2 -68,20 0,26 32,58 67,66 56,12 58,17 13,30 -25,7 -63,16 -84,19 l -39,6 39,24 c 25,16 55,25 84,25 39,1 42,2 25,12 -11,6 -21,12 -23,13 -1,1 9,22 22,46 14,24 26,64 28,89 l 3,44 -45,-3 c -77,-4 -109,45 -45,69 21,8 25,14 19,33 -11,36 -35,80 -56,103 -19,22 -19,22 11,65 17,24 33,57 37,73 6,25 4,27 -13,22 -10,-3 -28,0 -38,8 -17,12 -18,16 -5,31 8,9 23,21 35,25 15,7 9,9 -24,9 -43,1 -43,1 -37,33 3,17 13,44 20,60 15,29 9,37 -12,16 -16,-16 -17,-9 -37,167 -19,166 -35,236 -66,296 -43,86 -163,189 -219,189 -35,0 -91,-60 -183,-195 -53,-78 -91,-123 -133,-155 -32,-26 -74,-68 -92,-96 -19,-27 -38,-51 -43,-52 -5,-2 -15,11 -23,28 l -13,32 -6,-38 c -4,-22 -7,-55 -7,-74 0,-31 -6,-39 -49,-67 -33,-21 -51,-28 -54,-20 -2,7 -16,0 -35,-19 l -31,-32 -3,52 c -3,48 -4,49 -15,25 -6,-14 -26,-38 -45,-54 l -33,-28 -7,48 c -11,80 -16,83 -44,27 -36,-72 -49,-81 -68,-43 -15,28 -51,61 -68,61 -5,0 -8,-9 -8,-20 0,-22 -20,-70 -29,-70 -3,0 -21,22 -39,48 -68,96 -64,94 -59,30 2,-32 1,-58 -3,-58 -4,0 -26,14 -49,31 l -43,31 6,-34 6,-33 -22,29 c -13,16 -33,41 -45,55 l -22,26 -1,-42 c 0,-24 -2,-43 -5,-43 -3,0 -28,15 -55,33 -47,30 -50,35 -51,77 -1,25 -4,59 -8,75 l -7,30 -12,-33 c -6,-19 -16,-32 -22,-30 -5,1 -25,25 -42,52 -18,28 -60,71 -93,96 -43,33 -82,79 -138,161 -128,187 -159,210 -235,172 z m 372,-532 c 70,-30 201,-140 222,-184 l 18,-38 -32,-31 -31,-32 -38,17 c -40,18 -61,21 -103,18 -22,-1 -20,-4 16,-20 23,-10 49,-29 58,-42 16,-23 16,-24 -14,-33 -20,-6 -39,-5 -57,3 -34,16 -46,0 -39,-51 4,-34 2,-38 -19,-38 -12,0 -42,7 -65,15 -24,8 -45,13 -48,11 -7,-8 26,-49 50,-63 42,-23 -8,-15 -66,11 -56,25 -140,95 -178,149 l -21,29 21,-11 c 11,-6 33,-11 49,-11 h 28 l -30,19 c -16,10 -41,30 -54,44 l -24,26 46,11 c 25,7 60,25 78,40 l 34,28 -27,11 c -15,5 -44,8 -65,5 l -38,-4 40,20 c 22,11 57,23 77,26 47,8 40,24 -10,24 -57,0 -19,18 55,26 67,7 84,25 41,45 -18,7 -11,8 29,5 29,-3 73,-14 97,-25 z m 1369,19 c -42,-17 -27,-37 35,-45 80,-9 111,-23 55,-24 -24,-1 -43,-5 -43,-11 0,-5 8,-10 18,-10 10,0 39,-7 65,-16 56,-19 76,-40 29,-31 -18,4 -44,2 -58,-4 -25,-9 -26,-11 -10,-28 20,-22 70,-48 110,-56 l 29,-6 -24,-26 c -13,-14 -37,-34 -54,-44 l -30,-19 h 28 c 16,0 38,5 50,11 16,9 14,3 -12,-29 -49,-62 -118,-119 -166,-138 l -44,-16 -42,33 -42,33 23,15 c 13,9 48,26 79,37 l 56,22 -50,7 c -28,5 -77,3 -110,-2 -33,-6 -62,-9 -64,-7 -8,7 10,52 33,87 20,29 22,37 10,37 -30,0 -81,-28 -107,-59 l -27,-32 -10,27 c -12,29 0,79 29,124 l 16,25 -30,-19 c -44,-28 -85,-67 -102,-99 -29,-57 -24,-17 6,45 26,52 45,74 108,123 85,66 167,104 228,104 34,0 37,-2 18,-9 z m -530,-965 c -9,-31 -18,-109 -22,-205 l -6,-155 -45,45 c -25,25 -59,72 -76,104 l -32,59 -30,-59 c -16,-32 -47,-79 -69,-103 l -39,-44 1,170 c 0,165 1,169 17,142 10,-16 21,-43 26,-61 l 9,-33 17,35 c 23,45 46,70 62,70 7,0 28,-25 46,-55 31,-51 48,-67 48,-45 0,41 91,202 106,188 2,-2 -4,-26 -13,-53 z m 438,-212 c 27,-16 49,-32 49,-38 -1,-5 -11,-22 -23,-37 -22,-27 -23,-27 -62,-13 -22,8 -66,14 -97,15 -46,0 -61,-4 -78,-22 -11,-12 -20,-32 -20,-43 0,-12 -11,-38 -24,-58 -22,-33 -46,-127 -32,-127 3,0 20,9 37,19 21,13 42,17 68,14 66,-9 104,16 147,97 34,66 39,71 63,65 14,-3 37,-13 49,-21 22,-14 22,-17 8,-33 -9,-10 -26,-49 -39,-87 -27,-85 -48,-99 -128,-84 -51,10 -54,9 -74,-16 l -21,-26 -87,18 c -86,18 -87,18 -87,49 0,16 -5,65 -12,107 -15,100 -3,121 82,145 40,11 65,24 75,40 43,66 127,80 206,36 z m -1111,-14 c 58,-20 62,-20 104,-4 57,22 80,14 112,-41 56,-95 80,-228 50,-270 -14,-18 -16,-18 -44,-1 -17,9 -37,17 -46,17 -9,0 -13,6 -10,14 3,7 -5,32 -17,55 -13,26 -19,50 -15,66 8,30 -20,102 -45,115 -27,15 -119,11 -164,-6 -22,-9 -52,-18 -67,-21 -16,-3 -28,-8 -28,-10 0,-10 68,-98 97,-125 18,-17 51,-32 91,-42 97,-22 107,-37 72,-105 -34,-69 -123,-116 -173,-94 -23,11 -77,112 -112,208 -10,28 -30,62 -45,77 -25,23 -27,28 -15,46 8,10 28,25 45,32 17,7 38,27 47,44 37,73 62,80 163,45 z m 84,-75 c 19,-18 18,-14 5,-51 -13,-38 -66,-69 -102,-59 -43,10 -94,82 -74,103 24,23 150,29 171,7 z m 859,-23 c -5,-21 11,-36 28,-25 8,4 8,9 0,17 -6,6 -11,15 -11,19 0,11 43,10 73,-1 23,-9 25,-19 18,-73 -2,-13 -60,-38 -88,-38 -57,1 -81,50 -47,98 19,27 34,29 27,3 z" />
         <path
-           style="fill:#000000;fill-opacity:0.43612336"
+           style="fill:#000000;fill-opacity:0.436123"
            id="path10"
            d="m 1384,2195 c -9,-22 12,-43 27,-28 9,9 8,16 -5,28 -15,15 -17,15 -22,0 z" />
         <path
-           style="fill:#000000;fill-opacity:0.43612336"
+           style="fill:#000000;fill-opacity:0.436123"
            id="path12"
            d="m 1784,1265 c -94,-17 -107,-25 -134,-86 -35,-82 -31,-148 13,-243 42,-89 53,-100 117,-116 60,-14 100,-31 100,-40 0,-5 3,-16 6,-24 9,-23 -48,-44 -154,-60 l -86,-12 69,-23 c 115,-37 178,-38 286,-5 l 94,29 -66,10 c -73,12 -129,33 -129,47 0,36 27,54 130,82 73,20 107,56 125,132 23,94 19,162 -11,222 -30,60 -54,75 -139,91 -73,14 -130,13 -221,-4 z m 222,-166 c 52,-24 71,-46 57,-60 -7,-7 -24,-4 -52,11 -24,11 -63,23 -89,26 -44,5 -50,3 -96,-35 -53,-45 -63,-48 -92,-27 -19,14 -19,15 5,40 62,66 182,86 267,45 z m -295,-99 c 32,-14 39,-44 13,-54 -23,-9 -52,20 -64,63 -15,53 -12,70 6,34 9,-17 29,-37 45,-43 z" />
         <path
-           style="fill:#000000;fill-opacity:0.43612336"
+           style="fill:#000000;fill-opacity:0.436123"
            id="path14"
            d="m 1256,1111 c -21,-23 -22,-20 60,-126 34,-44 71,-96 84,-115 13,-22 19,-27 15,-13 -3,12 -17,66 -29,119 -13,53 -33,108 -43,123 -25,33 -63,38 -87,12 z" />
         <path
-           style="fill:#000000;fill-opacity:0.43612336"
+           style="fill:#000000;fill-opacity:0.436123"
            id="path16"
            d="m 2376,1091 c -9,-10 -21,-46 -27,-81 -5,-34 -16,-80 -24,-103 -8,-23 -13,-43 -11,-44 6,-6 116,185 116,200 0,47 -25,60 -54,28 z" />
       </g>
