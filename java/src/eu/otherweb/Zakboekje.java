@@ -185,17 +185,17 @@ public class Zakboekje {
 			
 			if (leftPage.rotation != Rotation.EMPTY) {
 				Image image = getImageFromPdf(writer, leftPage);
-				image.setAbsolutePosition(0f, 0f);
+				image.setAbsolutePosition(20 / 2, 0f);
 				document.add(image);
-				image.setAbsolutePosition(0f, 842 / 2);
+				image.setAbsolutePosition(20 / 2, 842 / 2);
 				document.add(image);
 			}
 			
 			if (rightPage.rotation != Rotation.EMPTY) {
 				Image image = getImageFromPdf(writer, rightPage);
-				image.setAbsolutePosition(595 / 2, 0f);
+				image.setAbsolutePosition(575 / 2, 0f);
 				document.add(image);
-				image.setAbsolutePosition(595 / 2, 842 / 2);
+				image.setAbsolutePosition(575 / 2, 842 / 2);//595
 				document.add(image);
 			}
 			document.newPage();
