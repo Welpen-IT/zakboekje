@@ -197,15 +197,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2112788"
-     inkscape:cx="372.74654"
-     inkscape:cy="300.92163"
+     inkscape:zoom="2.4225576"
+     inkscape:cx="192.56508"
+     inkscape:cy="141.37951"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="995"
+     inkscape:window-width="2506"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -260,50 +260,39 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 50.50585,999.2255 10e-6,56.7213"
+       d="m 44.50585,1003.2255 10e-6,56.7213"
        id="path2910" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.598755,980.3184 -37.003883,0.2431"
+       d="m 35.433071,996.2992 -37.0038832,0.2431"
        id="path2912" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 50.50586,526.54813 -10e-6,56.72127"
+       d="m 44.50586,532.54813 -10e-6,56.72127"
        id="path2910-4" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 31.598755,602.1765 -37.003883,0.2431"
+       d="m 35.598755,598.1765 -37.003883,0.2431"
        id="path2912-9" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8064px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0672"
-       x="126.13423"
-       y="545.4552"
-       id="text3803"><tspan
-         sodipodi:role="line"
-         id="tspan3805"
-         x="126.13423"
-         y="545.4552"
-         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Pagina : Leeg Links</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8064px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0672"
-       x="126.13423"
+       x="124.13423"
        y="564.3623"
        id="text3807"><tspan
          sodipodi:role="line"
          id="tspan3809"
-         x="126.13423"
+         x="124.13423"
          y="564.3623"
-         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Datum : 27 sep 2024</tspan><tspan
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Datum : 29 sep 2024</tspan><tspan
          sodipodi:role="line"
-         x="126.13423"
-         y="583.03833"
+         x="124.13423"
+         y="573.06"
          id="tspan3811"
-         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672"> </tspan></text>
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot2852"
@@ -344,12 +333,12 @@
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 371.92644,526.54813 -1e-5,56.72127"
+       d="m 369.92644,532.54813 -1e-5,56.72127"
        id="path2910-4-9" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 371.92644,999.2255 10e-6,56.7213"
+       d="m 369.92644,1003.2255 10e-6,56.7213"
        id="path2910-8" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.0672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -447,5 +436,16 @@
          id="path16"
          style="fill:#000000;stroke:none" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8064px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0672"
+       x="124.56693"
+       y="543.74072"
+       id="text18701"><tspan
+         sodipodi:role="line"
+         x="124.56693"
+         y="543.74072"
+         id="tspan18699"
+         style="font-size:14.9408px;line-height:1.25;stroke-width:1.0672">Pagina: Aantekeningen</tspan></text>
   </g>
 </svg>

@@ -185,17 +185,17 @@ public class Zakboekje {
 			
 			if (leftPage.rotation != Rotation.EMPTY) {
 				Image image = getImageFromPdf(writer, leftPage);
-				image.setAbsolutePosition(20 / 2, 0f);
+				image.setAbsolutePosition(42 / 2, 0f);//(20 / 2, 0f)
 				document.add(image);
-				image.setAbsolutePosition(20 / 2, 842 / 2);
+				image.setAbsolutePosition(42 / 2, 842 / 2);//(20 / 2, 842 / 2)
 				document.add(image);
 			}
 			
 			if (rightPage.rotation != Rotation.EMPTY) {
 				Image image = getImageFromPdf(writer, rightPage);
-				image.setAbsolutePosition(575 / 2, 0f);
+				image.setAbsolutePosition(593 / 2, 0f);//(575 / 2, 0f) -4
 				document.add(image);
-				image.setAbsolutePosition(575 / 2, 842 / 2);//595
+				image.setAbsolutePosition(593 / 2, 842 / 2);//(575 / 2, 842 / 2)
 				document.add(image);
 			}
 			document.newPage();
@@ -206,7 +206,7 @@ public class Zakboekje {
 	public void makeBookA6onA6(String PdfFileName, ArrayList<PageFile> pages) throws DocumentException, IOException {
 		Document document = new Document();
 		PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream(PdfFileName));
-		document.setPageSize(new Rectangle( 240.944882f, 283.464567f));
+		document.setPageSize(new Rectangle( 240, 295));
 		document.open();
 
 		Iterator<PageFile> ipages = pages.iterator();
@@ -218,17 +218,17 @@ public class Zakboekje {
 			rightPage = ipages.next();
 			
 			
-			if (leftPage.rotation != Rotation.EMPTY) {
+			if (leftPage.rotation != Rotation.EMPTY) {//Right
 				Image image = getImageFromPdf(writer, leftPage);
-				image.setAbsolutePosition(0, -70.8661417f);
+				image.setAbsolutePosition(-4, -44);
 				document.add(image);
 				
 			}
 			document.newPage();
 			
-			if (rightPage.rotation != Rotation.EMPTY) {
+			if (rightPage.rotation != Rotation.EMPTY) {//Left
 				Image image = getImageFromPdf(writer, rightPage);
-				image.setAbsolutePosition(-56.6929134f, -70.8661417f);
+				image.setAbsolutePosition(-36, -44);
 				document.add(image);
 			}
 			document.newPage();

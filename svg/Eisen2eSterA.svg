@@ -235,7 +235,7 @@
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
     <inkscape:perspective
-       id="perspective7113"
+       id="perspective3298"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -249,32 +249,33 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6703726"
-     inkscape:cx="127.21712"
-     inkscape:cy="180.49865"
+     inkscape:zoom="1.2020815"
+     inkscape:cx="484.16017"
+     inkscape:cy="197.57395"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5484"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1253"
+     inkscape:window-height="1376"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
      inkscape:snap-global="true"
      objecttolerance="25"
      guidetolerance="25"
      inkscape:snap-grids="true"
      inkscape:snap-center="false"
      inkscape:snap-object-midpoints="false"
-     inkscape:snap-page="true"
+     inkscape:snap-page="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="true"
      inkscape:snap-nodes="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -305,68 +306,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-680.31489)">
-    <g
-       id="g5534"
-       transform="matrix(-1.0649362,0,0,-1.0649362,548.97398,1803.1285)">
-      <g
-         transform="rotate(90,186.02361,866.33849)"
-         id="g3628">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 70.866146,981.49599 v 53.14961"
-           id="path2910"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 53.149606,963.77946 H 17.716536"
-           id="path2912"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 53.149606,609.44875 H 17.716536"
-           id="path2912-9"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 70.866146,538.58261 v 53.1496"
-           id="path2910-1"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 372.04724,538.58261 v 53.1496"
-           id="path2910-1-6"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 372.04724,981.49599 v 53.14961"
-           id="path2910-0"
-           sodipodi:nodetypes="cc" />
-      </g>
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3048"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.0649362,0,0,1.0649362,-17.035401,520.17393)"><flowRegion
-         id="flowRegion3050"><rect
-           id="rect3052"
-           width="70.172775"
-           height="81.490959"
-           x="217.30923"
-           y="252.01834" /></flowRegion><flowPara
-         id="flowPara3054"
-         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="191.88586"
-       y="791.36981"
-       id="text3068"><tspan
-         sodipodi:role="line"
-         id="tspan3070"
-         x="191.88586"
-         y="791.36981"
-         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3116"
@@ -395,271 +334,47 @@
          style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="1035.2784"
-       id="text4944-7-4-6-14-5-3"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="304.59747"
+       y="732.91028"
+       id="text3140-6"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="1035.2784"
-         id="tspan4948-2-0-9-1-6-5"
-         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
-    <g
-       id="g5484"
-       transform="translate(-3.0708661e-6,-70.866141)">
-      <text
-         id="text3140-6"
-         y="796.29297"
-         x="322.4285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494"
-           id="tspan3150-7"
-           y="796.29297"
-           x="322.4285"
-           sodipodi:role="line">DATUM</tspan></text>
-      <text
-         id="text3140-6-9"
-         y="796.46442"
-         x="397.66043"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           style="font-weight:bold;font-size:14.9091px;line-height:1.4;stroke-width:1.06494"
-           id="tspan3150-7-6"
-           y="796.46442"
-           x="397.66043"
-           sodipodi:role="line">PARAAF</tspan></text>
-      <path
-         id="path4911"
-         d="M 96.16648,772.16305 H 435.77213 V 1055.1678 H 96.16648 Z"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path4915"
-         d="M 360.30421,772.16305 V 1055.1678"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path4917"
-         d="M 284.83629,772.16305 V 1055.1678"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text3140-6-6"
-         y="796.38239"
-         x="190.25282"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494"
-           id="tspan3150-7-2"
-           y="796.38239"
-           x="190.25282"
-           sodipodi:role="line">EISEN 2e STER</tspan></text>
-      <text
-         id="text4944-7-4-6"
-         y="823.13983"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9"
-           y="823.13983"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">De Nederlandse Vlag</tspan></text>
-      <path
-         id="path5074"
-         d="m 96.16648,809.89703 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0"
-         d="m 96.16648,828.764 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-0"
-         y="860.87378"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-8"
-           y="860.87378"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Schootsteek</tspan></text>
-      <path
-         id="path5074-08"
-         d="m 96.16648,847.63098 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0-0"
-         d="m 96.16648,866.49794 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-9"
-         y="898.60773"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-4"
-           y="898.60773"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Lenigheidsoefeningen</tspan></text>
-      <path
-         id="path5074-5"
-         d="m 96.16648,885.36494 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0-1"
-         d="m 96.16648,904.2319 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-1"
-         y="936.34167"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-2"
-           y="936.34167"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Gebruik gereedschap</tspan></text>
-      <path
-         id="path5074-1"
-         d="m 96.16648,923.0989 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0-4"
-         d="m 96.16648,941.96591 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-4"
-         y="974.07568"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-43"
-           y="974.07568"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Telefoneren</tspan></text>
-      <path
-         id="path5074-56"
-         d="m 96.16648,960.83286 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0-6"
-         d="m 96.16648,979.69982 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-14"
-         y="1011.8097"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-1"
-           y="1011.8097"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Hygiene</tspan></text>
-      <path
-         id="path5074-9"
-         d="m 96.16648,998.5668 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         id="path5074-0-9"
-         d="m 96.16648,1017.4338 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-7"
-         y="842.00684"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-5"
-           y="842.00684"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Gebruik kompas</tspan></text>
-      <text
-         id="text4944-7-4-6-0-2"
-         y="879.74078"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-8-1"
-           y="879.74078"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Kruissjorring</tspan></text>
-      <text
-         id="text4944-7-4-6-9-8"
-         y="917.47473"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-4-6"
-           y="917.47473"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Verzameling aanleggen</tspan></text>
-      <text
-         id="text4944-7-4-6-1-7"
-         y="955.20868"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-2-0"
-           y="955.20868"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Voorwerp maken<tspan
-   style="font-size:11.3333px"
-   id="tspan8733">(techniek)</tspan></tspan></text>
-      <text
-         id="text4944-7-4-6-4-5"
-         y="992.94269"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-43-7"
-           y="992.94269"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Schrijven in logboek</tspan></text>
-      <text
-         id="text4944-7-4-6-14-5"
-         y="1030.6766"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-1-6"
-           y="1030.6766"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Teken en ziekte v. Lyme</tspan></text>
-      <path
-         id="path5074-0-9-0"
-         d="m 96.16648,1036.3008 h 339.60565 v 0"
-         style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         id="text4944-7-4-6-14-5-3-6"
-         y="1049.5436"
-         x="103.88969"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-         xml:space="preserve"><tspan
-           id="tspan4948-2-0-9-1-6-5-4"
-           y="1049.5436"
-           x="103.88969"
-           sodipodi:role="line"
-           style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">-</tspan></text>
-    </g>
+         x="304.59747"
+         y="732.91028"
+         id="tspan3150-7"
+         style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494">DATUM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="397.82941"
+       y="733.08173"
+       id="text3140-6-9"><tspan
+         sodipodi:role="line"
+         x="397.82941"
+         y="733.08173"
+         id="tspan3150-7-6"
+         style="font-weight:bold;font-size:14.9091px;line-height:1.4;stroke-width:1.06494">PARAAF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="168.42175"
+       y="732.99969"
+       id="text3140-6-6"><tspan
+         sodipodi:role="line"
+         x="168.42175"
+         y="732.99969"
+         id="tspan3150-7-2"
+         style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494">EISEN 2e STER</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="141.09955"
-       y="1009.3583"
+       x="137.26849"
+       y="1008.8417"
        id="text5451"><tspan
          sodipodi:role="line"
          id="tspan5453"
-         x="141.09955"
-         y="1009.3583"
+         x="137.26849"
+         y="1008.8417"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -673,5 +388,290 @@
            y="86.047241" /></flowRegion><flowPara
          id="flowPara5461"
          style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0649362,0,0,1.0649362,-41.73263,528.79118)"><flowRegion
+         id="flowRegion3050"><rect
+           id="rect3052"
+           width="70.172775"
+           height="81.490959"
+           x="217.30923"
+           y="252.01834" /></flowRegion><flowPara
+         id="flowPara3054"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="167.18866"
+       y="799.98706"
+       id="text3068"><tspan
+         sodipodi:role="line"
+         id="tspan3070"
+         x="167.18866"
+         y="799.98706"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
+    <text
+       id="text4944-7-4-6"
+       y="760.89093"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9"
+         y="760.89093"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">De Nederlandse Vlag</tspan></text>
+    <text
+       id="text4944-7-4-6-0"
+       y="798.62488"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-8"
+         y="798.62488"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Schootsteek</tspan></text>
+    <text
+       id="text4944-7-4-6-9"
+       y="836.35883"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-4"
+         y="836.35883"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Lenigheidsoefeningen</tspan></text>
+    <text
+       id="text4944-7-4-6-1"
+       y="874.09277"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-2"
+         y="874.09277"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Gebruik gereedschap</tspan></text>
+    <text
+       id="text4944-7-4-6-4"
+       y="911.82678"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-43"
+         y="911.82678"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Telefoneren</tspan></text>
+    <text
+       id="text4944-7-4-6-14"
+       y="947.56079"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-1"
+         y="947.56079"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Hygiene</tspan></text>
+    <text
+       id="text4944-7-4-6-7"
+       y="779.75793"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-5"
+         y="779.75793"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Gebruik kompas</tspan></text>
+    <text
+       id="text4944-7-4-6-0-2"
+       y="817.49188"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-8-1"
+         y="817.49188"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Kruissjorring</tspan></text>
+    <text
+       id="text4944-7-4-6-9-8"
+       y="855.22583"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-4-6"
+         y="855.22583"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Verzameling aanleggen</tspan></text>
+    <text
+       id="text4944-7-4-6-1-7"
+       y="892.95978"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-2-0"
+         y="892.95978"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Voorwerp maken<tspan
+   style="font-size:11.3333px"
+   id="tspan8733">(techniek)</tspan></tspan></text>
+    <text
+       id="text4944-7-4-6-4-5"
+       y="930.69379"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-43-7"
+         y="930.69379"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Schrijven in logboek</tspan></text>
+    <text
+       id="text4944-7-4-6-14-5"
+       y="966.42773"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-1-6"
+         y="966.42773"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Teken en ziekte v. Lyme</tspan></text>
+    <text
+       id="text4944-7-4-6-14-5-3-6"
+       y="981.29468"
+       x="79.192436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       xml:space="preserve"><tspan
+         id="tspan4948-2-0-9-1-6-5-4"
+         y="981.29468"
+         x="79.192436"
+         sodipodi:role="line"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">-</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70.42583,701.62507 H 445.46456 V 984.62985 H 70.42583 Z"
+       id="path4911" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 351.13887,702.43074 V 985.43552"
+       id="path4915" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 259.67095,702.43074 V 985.43552"
+       id="path4917" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,746.16473 h 374.46343 v 0"
+       id="path5074" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,765.03167 h 374.46343 v 0"
+       id="path5074-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,783.89872 h 374.46343 v 0"
+       id="path5074-08" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,802.76567 h 374.46343 v 0"
+       id="path5074-0-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,821.63261 h 374.46343 v 0"
+       id="path5074-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,840.49966 h 374.46343 v 0"
+       id="path5074-0-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,859.3666 h 374.46343 v 0"
+       id="path5074-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,878.23365 h 374.46343 v 0"
+       id="path5074-0-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,897.10059 h 374.46343 v 0"
+       id="path5074-56" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,915.96753 h 374.46343 v 0"
+       id="path5074-0-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,934.83448 h 374.46343 v 0"
+       id="path5074-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,951.70142 h 374.46343 v 0"
+       id="path5074-0-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.00113,968.56858 h 374.46343 v 0"
+       id="path5074-0-9-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="106.72433"
+       y="1034.4124"
+       id="text4944-7-4-6-14-5-3"><tspan
+         sodipodi:role="line"
+         x="106.72433"
+         y="1034.4124"
+         id="tspan4948-2-0-9-1-6-5"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
+       x="139.9342"
+       y="1008.4921"
+       id="text5451-3"><tspan
+         sodipodi:role="line"
+         id="tspan5453-1"
+         x="139.9342"
+         y="1008.4921"
+         style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.20811,681.91358 -56.7213,10e-5"
+       id="path2910" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.13441,1056.8409 -0.2431,-37.0039"
+       id="path2912" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 528.88546,681.91363 -56.72127,-10e-6"
+       id="path2910-4" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.48851;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 457.25709,1051.496 -0.2431,-31.4933"
+       id="path2912-9" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 528.88546,1007.3342 H 472.16419"
+       id="path2910-4-9" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.20811,1007.3342 -56.7213,10e-5"
+       id="path2910-8" />
   </g>
 </svg>

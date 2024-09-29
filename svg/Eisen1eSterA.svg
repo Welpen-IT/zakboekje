@@ -249,23 +249,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3093462"
-     inkscape:cx="234.85004"
-     inkscape:cy="202.77296"
+     inkscape:zoom="1.7"
+     inkscape:cx="262.94118"
+     inkscape:cy="200.29412"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1253"
+     inkscape:window-height="1376"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
      inkscape:snap-global="true"
      objecttolerance="25"
      guidetolerance="25"
      inkscape:snap-grids="true"
-     inkscape:snap-center="true"
+     inkscape:snap-center="false"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-page="false"
      inkscape:snap-bbox="true"
@@ -274,7 +274,8 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-paths="true"
      inkscape:snap-nodes="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-to-guides="false">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -305,49 +306,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-680.31489)">
-    <g
-       id="g6104"
-       transform="matrix(-1.0649362,0,0,-1.0649362,548.97398,1803.1285)">
-      <g
-         transform="rotate(90,186.02361,866.33849)"
-         id="g3628">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 70.866146,981.49599 v 53.14961"
-           id="path2910"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 53.149606,963.77946 H 17.716536"
-           id="path2912"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 53.149606,609.44875 H 17.716536"
-           id="path2912-9"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 70.866146,538.58261 v 53.1496"
-           id="path2910-1"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 372.04724,538.58261 v 53.1496"
-           id="path2910-1-6"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:3.54331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 372.04724,981.49599 v 53.14961"
-           id="path2910-0"
-           sodipodi:nodetypes="cc" />
-      </g>
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3048"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.0649362,0,0,1.0649362,-17.035401,520.17393)"><flowRegion
+       transform="matrix(1.0649362,0,0,1.0649362,-45.035401,528.17393)"><flowRegion
          id="flowRegion3050"><rect
            id="rect3052"
            width="70.172775"
@@ -359,13 +322,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="191.88586"
-       y="791.36981"
+       x="163.88586"
+       y="799.36981"
        id="text3068"><tspan
          sodipodi:role="line"
          id="tspan3070"
-         x="191.88586"
-         y="791.36981"
+         x="163.88586"
+         y="799.36981"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -396,171 +359,171 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="322.42853"
-       y="725.42688"
+       x="298.42853"
+       y="733.42688"
        id="text3140-6"><tspan
          sodipodi:role="line"
-         x="322.42853"
-         y="725.42688"
+         x="298.42853"
+         y="733.42688"
          id="tspan3150-7"
          style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494">DATUM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="397.66049"
-       y="725.59833"
+       x="391.66049"
+       y="733.59833"
        id="text3140-6-9"><tspan
          sodipodi:role="line"
-         x="397.66049"
-         y="725.59833"
+         x="391.66049"
+         y="733.59833"
          id="tspan3150-7-6"
          style="font-weight:bold;font-size:14.9091px;line-height:1.4;stroke-width:1.06494">PARAAF</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 96.16648,701.29688 H 435.77214 V 984.30166 H 96.16648 Z"
+       style="fill:none;stroke:#000000;stroke-width:1.11912px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 67.59118,702.49121 H 442.62991 V 985.49599 H 67.59118 Z"
        id="path4911" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 360.30422,701.29688 V 984.30166"
+       d="M 348.30422,703.29688 V 986.30166"
        id="path4915" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 284.8363,701.29688 V 984.30166"
+       d="M 256.8363,703.29688 V 986.30166"
        id="path4917" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="190.25282"
-       y="725.5163"
+       x="162.25282"
+       y="733.5163"
        id="text3140-6-6"><tspan
          sodipodi:role="line"
-         x="190.25282"
-         y="725.5163"
+         x="162.25282"
+         y="733.5163"
          id="tspan3150-7-2"
          style="font-weight:bold;font-size:14.9091px;line-height:1.4;text-align:center;text-anchor:middle;stroke-width:1.06494">EISEN 1e STER</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="752.27374"
+       x="75.889687"
+       y="760.27374"
        id="text4944-7-4-6"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="752.27374"
+         x="75.889687"
+         y="760.27374"
          id="tspan4948-2-0-9"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Wilhelmus</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,739.03087 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,747.03087 h 374.46343 v 0"
        id="path5074" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,757.89781 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,765.89781 h 374.46343 v 0"
        id="path5074-0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="790.00775"
+       x="75.889687"
+       y="798.00775"
        id="text4944-7-4-6-0"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="790.00775"
+         x="75.889687"
+         y="798.00775"
          id="tspan4948-2-0-9-8"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Kopje duikelen</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,776.76486 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,784.76486 h 374.46343 v 0"
        id="path5074-08" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,795.63181 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,803.63181 h 374.46343 v 0"
        id="path5074-0-0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.8897"
-       y="827.74158"
+       x="75.889702"
+       y="835.74158"
        id="text4944-7-4-6-9"><tspan
          sodipodi:role="line"
-         x="103.8897"
-         y="827.74158"
+         x="75.889702"
+         y="835.74158"
          id="tspan4948-2-0-9-4"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Touwtje springen (10x)</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,814.49875 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,822.49875 h 374.46343 v 0"
        id="path5074-5" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,833.3658 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,841.3658 h 374.46343 v 0"
        id="path5074-0-1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="865.47559"
+       x="75.889687"
+       y="873.47559"
        id="text4944-7-4-6-1"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="865.47559"
+         x="75.889687"
+         y="873.47559"
          id="tspan4948-2-0-9-2"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Acht hinkelen</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,852.23274 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,860.23274 h 374.46343 v 0"
        id="path5074-1" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,871.09979 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,879.09979 h 374.46343 v 0"
        id="path5074-0-4" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.8897"
-       y="903.20959"
+       x="75.889702"
+       y="911.20959"
        id="text4944-7-4-6-4"><tspan
          sodipodi:role="line"
-         x="103.8897"
-         y="903.20959"
+         x="75.889702"
+         y="911.20959"
          id="tspan4948-2-0-9-43"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Platte knoop</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,889.96673 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,897.96673 h 374.46343 v 0"
        id="path5074-56" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,908.83367 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,916.83367 h 374.46343 v 0"
        id="path5074-0-6" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.8897"
-       y="940.9436"
+       x="75.889702"
+       y="948.9436"
        id="text4944-7-4-6-14"><tspan
          sodipodi:role="line"
-         x="103.8897"
-         y="940.9436"
+         x="75.889702"
+         y="948.9436"
          id="tspan4948-2-0-9-1"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Welpenwet</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,927.70062 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,935.70062 h 374.46343 v 0"
        id="path5074-9" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,946.56756 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,952.56756 h 374.46343 v 0"
        id="path5074-0-9" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="771.14075"
+       x="75.889687"
+       y="779.14075"
        id="text4944-7-4-6-7"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="771.14075"
+         x="75.889687"
+         y="779.14075"
          id="tspan4948-2-0-9-5"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Kompas <tspan
    style="font-size:12.6667px"
@@ -568,61 +531,61 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="808.87469"
+       x="75.889687"
+       y="816.87469"
        id="text4944-7-4-6-0-2"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="808.87469"
+         x="75.889687"
+         y="816.87469"
          id="tspan4948-2-0-9-8-1"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Bok springen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="846.60858"
+       x="75.889687"
+       y="854.60858"
        id="text4944-7-4-6-9-8"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="846.60858"
+         x="75.889687"
+         y="854.60858"
          id="tspan4948-2-0-9-4-6"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Bal gooien / vangen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="884.34259"
+       x="75.889687"
+       y="892.34259"
        id="text4944-7-4-6-1-7"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="884.34259"
+         x="75.889687"
+         y="892.34259"
          id="tspan4948-2-0-9-2-0"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Veters strikken</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="922.0766"
+       x="75.889687"
+       y="930.0766"
        id="text4944-7-4-6-4-5"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="922.0766"
+         x="75.889687"
+         y="930.0766"
          id="tspan4948-2-0-9-43-7"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Mastworp</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="959.81061"
+       x="75.889687"
+       y="965.81061"
        id="text4944-7-4-6-14-5"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="959.81061"
+         x="75.889687"
+         y="965.81061"
          id="tspan4948-2-0-9-1-6"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Verkeersregels</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06494px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 96.16648,965.43472 h 339.60566 v 0"
+       style="fill:none;stroke:#000000;stroke-width:1.11826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.16648,969.43472 h 374.46343 v 0"
        id="path5074-0-9-0" />
     <text
        xml:space="preserve"
@@ -638,23 +601,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="103.88969"
-       y="978.67743"
+       x="75.889687"
+       y="982.67743"
        id="text4944-7-4-6-14-5-3-6"><tspan
          sodipodi:role="line"
-         x="103.88969"
-         y="978.67743"
+         x="75.889687"
+         y="982.67743"
          id="tspan4948-2-0-9-1-6-5-4"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494">Met boeken lopen</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7792px;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06494"
-       x="141.09955"
+       x="137.09955"
        y="1009.3583"
        id="text5451"><tspan
          sodipodi:role="line"
          id="tspan5453"
-         x="141.09955"
+         x="137.09955"
          y="1009.3583"
          style="font-size:14.9091px;line-height:1.25;stroke-width:1.06494"> </tspan></text>
     <flowRoot
@@ -669,5 +632,35 @@
            y="86.047241" /></flowRegion><flowPara
          id="flowPara5461"
          style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.37346,682.77972 -56.7213,10e-5"
+       id="path2910" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.29976,1057.707 -0.2431,-37.0039"
+       id="path2912" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 526.05081,682.77977 -56.72127,-10e-6"
+       id="path2910-4" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.48851;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 454.42244,1052.3621 -0.2431,-31.4933"
+       id="path2912-9" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 526.05081,1008.2003 H 469.32954"
+       id="path2910-4-9" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:3.78142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.37346,1008.2003 -56.7213,10e-5"
+       id="path2910-8" />
   </g>
 </svg>
